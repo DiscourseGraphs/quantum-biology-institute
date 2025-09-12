@@ -1,0 +1,13 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.hasProperty("nodeTypeId")
+        - nodeTypeId == "node_i7PzyKw2NfkA8asBfxeey"
+  - type: table
+    name: Results from this Experiment
+    filters:
+      and:
+        - nodeTypeId == "node_i7PzyKw2NfkA8asBfxeey"
+        - note["rel_5nnUOb6wBzlAwAF2Wk-ts"] == ["file.this.name"]

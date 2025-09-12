@@ -1,0 +1,13 @@
+views:
+  - type: table
+    name: Table
+  - type: table
+    name: Experiments in this Project
+    filters:
+      and:
+        - nodeTypeId == "node_Qbdr-LbBCb_WjPFNTnjTX"
+        - project == this.file.name
+    order:
+      - file.name
+      - status
+      - targetQuestionOrHyp
