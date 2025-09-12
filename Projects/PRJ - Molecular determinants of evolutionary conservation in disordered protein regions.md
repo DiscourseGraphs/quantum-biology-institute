@@ -1,6 +1,10 @@
 ---
 status: Ongoing
 targetQuestionOrHyp: "[[QUE - How do different coronavirus NTD-RBDs bind to single-stranded RNA (ssRNA)?]]"
+lead: "[[Alex Holehouse]]"
+contributors:
+  - "[[Andrea Soranno]]"
+  - "[[Jhullian J. Alston]]"
 ---
 # Resources
 
@@ -11,7 +15,7 @@ Canvas: [[Molecular determinants of evolutionary conservation.canvas|Molecular d
 
 # Results and Conclusions
 
-[[CLM - “Inert” Intrinsically Disordered Regions Suppress RNA Binding]]
+[[CLM - “Inert” intrinsically disordered regions suppress RNA binding]]
 
 # Todos
 ```tasks

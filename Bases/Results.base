@@ -1,13 +1,20 @@
 views:
   - type: table
-    name: Table
+    name: All
     filters:
       and:
         - file.hasProperty("nodeTypeId")
         - nodeTypeId == "node_i7PzyKw2NfkA8asBfxeey"
+    order:
+      - file.name
+      - rel_5nnUOb6wBzlAwAF2Wk-ts
+      - relation_Fvz-iAdQfeqSsmpKkZBN0
   - type: table
     name: Results from this Experiment
     filters:
       and:
         - nodeTypeId == "node_i7PzyKw2NfkA8asBfxeey"
-        - note["rel_5nnUOb6wBzlAwAF2Wk-ts"] == ["file.this.name"]
+        - note["rel_5nnUOb6wBzlAwAF2Wk-ts"].containsAny(this.file.name)
+    sort:
+      - property: file.name
+        direction: ASC

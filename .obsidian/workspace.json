@@ -4,36 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "c34fd2e3173fb2f2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6d055588cde878a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/PRJ - Molecular determinants of evolutionary conservation in disordered protein regions.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "PRJ - Molecular determinants of evolutionary conservation in disordered protein regions"
-            }
-          }
-        ]
-      },
-      {
         "id": "42d7bea24be6d620",
         "type": "tabs",
         "children": [
@@ -65,24 +35,10 @@
             "id": "50a9bcdf963366a6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DiscourseGraph/CLM - “Inert” Intrinsically Disordered Regions Suppress RNA Binding.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "CLM - “Inert” Intrinsically Disordered Regions Suppress RNA Binding"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -159,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DiscourseGraph/CLM - “Inert” Intrinsically Disordered Regions Suppress RNA Binding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CLM - “Inert” Intrinsically Disordered Regions Suppress RNA Binding"
+              "title": "Backlinks"
             }
           },
           {
@@ -178,12 +133,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DiscourseGraph/CLM - “Inert” Intrinsically Disordered Regions Suppress RNA Binding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from CLM - “Inert” Intrinsically Disordered Regions Suppress RNA Binding"
+              "title": "Outgoing links"
             }
           },
           {
@@ -207,13 +161,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DiscourseGraph/CLM - “Inert” Intrinsically Disordered Regions Suppress RNA Binding.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CLM - “Inert” Intrinsically Disordered Regions Suppress RNA Binding"
+              "title": "Outline"
             }
           },
           {
@@ -248,31 +201,38 @@
   },
   "active": "50a9bcdf963366a6",
   "lastOpenFiles": [
-    "DiscourseGraph/QUE - How do inert IDRs affect binding affinity?.md",
-    "Projects/PRJ - Molecular determinants of evolutionary conservation in disordered protein regions.md",
     "Bases/Experiments.base",
     "Bases/Results.base",
-    "DiscourseGraph/EXP - MD simulations with (GS)25-RBDSCO2 chimera.md",
-    "DiscourseGraph/RES - repeated association and dissociation events between (rU)25 and the (GS)25-RBD constructs.md",
-    "DiscourseGraph/RES - (GS)25-RBD suppressed RNA binding compared to the RBD alone.md",
-    "Attachments/CleanShot 2025-09-11 at 16.55.46.png",
-    "DiscourseGraph/QUE - How do different coronavirus NTD-RBDs bind to single-stranded RNA (ssRNA)?.md",
-    "DiscourseGraph/CLM - “Inert” Intrinsically Disordered Regions Suppress RNA Binding.md",
-    "Molecular determinants of evolutionary conservation.canvas",
+    "Bases/Questions.base",
+    "Bases/Projects.base",
+    "Meta/Conventions.md",
     "Home.md",
+    "DiscourseGraph/EXP - MD simulations with (GS)25-RBDSCO2 chimera.md",
+    "DiscourseGraph/QUE - How do inert IDRs affect binding affinity?.md",
+    "DiscourseGraph/QUE - How do different coronavirus NTD-RBDs bind to single-stranded RNA (ssRNA)?.md",
+    "DiscourseGraph/QUE - How do disordered protein regions encode function?.md",
+    "Projects/PRJ - Molecular determinants of evolutionary conservation in disordered protein regions.md",
+    "Meta",
+    "Meta/Templates/Experiment.md",
+    "DiscourseGraph/RES - repeated association and dissociation events between (rU)25 and the (GS)25-RBD constructs.md",
+    "Meta/Templates/Result.md",
+    "DiscourseGraph/RES - (GS)25-RBD suppressed RNA binding compared to the RBD alone.md",
+    "Templates/Untitled",
+    "Meta/Templates",
+    "DiscourseGraph/CLM - “Inert” intrinsically disordered regions suppress RNA binding.md",
+    "Projects/Molecular determinants of evolutionary conservation.canvas",
+    "Meta/Attachments/CleanShot 2025-09-11 at 16.55.46.png",
     "Projects",
     "DiscourseGraph/QUE - What determines specificity in IDR-mediated interactions?.md",
     "DiscourseGraph/PRJ - Disordered bioprotein region biophysics.md",
     "Untitled 1.md",
     "Untitled.md",
     "Bases",
-    "Attachments",
+    "Meta/Attachments",
     "DiscourseGraph/QUE - How do disordered proteins drive self-assembly in the context of biological phase separation?.md",
-    "DiscourseGraph/QUE - How do disordered protein regions encode function?.md",
     "RES - repeated association and dissociation events between (rU)25 and the (GS)25-RBD constructs.md",
     "RES - repeated association and dissociation events between (rU)25 and the (GS)25-RBD constructs 1.md",
-    "Attachments/CleanShot 2025-09-11 at 16.14.05.png",
-    "Attachments/CleanShot 2025-09-11 at 16.12.52.png",
-    "DiscourseGraph"
+    "Meta/Attachments/CleanShot 2025-09-11 at 16.14.05.png",
+    "Meta/Attachments/CleanShot 2025-09-11 at 16.12.52.png"
   ]
 }

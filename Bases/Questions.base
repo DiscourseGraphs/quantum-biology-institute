@@ -1,0 +1,23 @@
+formulas:
+  Num links: file.backlinks.length
+  Sum: file.backlinks.length
+properties:
+  file.mtime:
+    displayName: Last Updated
+  formula.Sum:
+    displayName: NumLinks
+views:
+  - type: table
+    name: All
+    filters:
+      and:
+        - nodeTypeId == "node_4SqRl5RIkaUMb9fLOpdhq"
+    order:
+      - file.name
+      - formula.Sum
+      - file.mtime
+    sort:
+      - property: formula.Sum
+        direction: DESC
+    columnSize:
+      file.name: 442

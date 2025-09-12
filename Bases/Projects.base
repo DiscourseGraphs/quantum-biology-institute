@@ -1,0 +1,10 @@
+views:
+  - type: table
+    name: All
+    filters:
+      and:
+        - file.folder == "Projects"
+    order:
+      - file.name
+      - status
+      - targetQuestionOrHyp

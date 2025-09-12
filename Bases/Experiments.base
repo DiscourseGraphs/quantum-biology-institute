@@ -1,6 +1,18 @@
 views:
   - type: table
-    name: Table
+    name: All
+    filters:
+      and:
+        - nodeTypeId == "node_Qbdr-LbBCb_WjPFNTnjTX"
+    order:
+      - file.name
+      - status
+      - lead
+      - targetQuestionOrHyp
+      - project
+    columnSize:
+      note.project: 241
+      note.status: 122
   - type: table
     name: Experiments in this Project
     filters:
