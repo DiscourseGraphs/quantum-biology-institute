@@ -8,3 +8,17 @@ views:
       - file.name
       - status
       - targetQuestionOrHyp
+  - type: table
+    name: My Projects
+    filters:
+      and:
+        - file.folder == "Projects"
+        - or:
+            - lead == this.file.name
+            - contributors.contains(this.file.name)
+    order:
+      - file.name
+      - status
+      - lead
+      - contributors
+      - targetQuestionOrHyp

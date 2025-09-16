@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "42d7bea24be6d620",
+        "id": "b32e169d515f85f9",
         "type": "tabs",
         "children": [
           {
-            "id": "69e7de610166c9d7",
+            "id": "f785a67e691a8ef7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DiscourseGraph/EXP - MD simulations with (GS)25-RBDSCO2 chimera.md",
+                "file": "DiscourseGraph/QUE - How do disordered proteins drive self-assembly in the context of biological phase separation?.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,21 +28,51 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "EXP - MD simulations with (GS)25-RBDSCO2 chimera"
+              "title": "QUE - How do disordered proteins drive self-assembly in the context of biological phase separation?"
             }
           },
           {
-            "id": "50a9bcdf963366a6",
+            "id": "26a65b71e368f71d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Andrea Soranno.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Andrea Soranno"
+            }
+          },
+          {
+            "id": "825e883401b773ab",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Projects/My awseome new projects.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": -245.192252064098,
+                  "zoom": -1.509279136731358
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "My awseome new projects"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,6 +126,27 @@
             }
           }
         ]
+      },
+      {
+        "id": "e52e294e0fa98412",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67bfb222e956a96c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DiscourseGraph/QUE - How do disordered proteins drive self-assembly in the context of biological phase separation?.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of QUE - How do disordered proteins drive self-assembly in the context of biological phase separation?"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -115,6 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DiscourseGraph/QUE - How do disordered proteins drive self-assembly in the context of biological phase separation?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +176,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for QUE - How do disordered proteins drive self-assembly in the context of biological phase separation?"
             }
           },
           {
@@ -133,11 +185,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DiscourseGraph/QUE - How do disordered proteins drive self-assembly in the context of biological phase separation?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from QUE - How do disordered proteins drive self-assembly in the context of biological phase separation?"
             }
           },
           {
@@ -156,21 +209,7 @@
             }
           },
           {
-            "id": "67bfb222e956a96c",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "f8650f2495fd530e",
+            "id": "806360f26703ea6b",
             "type": "leaf",
             "state": {
               "type": "discourse-context-view",
@@ -180,11 +219,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 454.5
+    "width": 648.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,39 +238,47 @@
       "discourse-graphs:Toggle Discourse Context": false
     }
   },
-  "active": "50a9bcdf963366a6",
+  "active": "f785a67e691a8ef7",
   "lastOpenFiles": [
-    "Bases/Experiments.base",
-    "Bases/Results.base",
-    "Bases/Questions.base",
-    "Bases/Projects.base",
-    "Meta/Conventions.md",
-    "Home.md",
-    "DiscourseGraph/EXP - MD simulations with (GS)25-RBDSCO2 chimera.md",
-    "DiscourseGraph/QUE - How do inert IDRs affect binding affinity?.md",
     "DiscourseGraph/QUE - How do different coronavirus NTD-RBDs bind to single-stranded RNA (ssRNA)?.md",
+    "DiscourseGraph/QUE - How do disordered proteins drive self-assembly in the context of biological phase separation?.md",
+    "DiscourseGraph/QUE - How do inert IDRs affect binding affinity?.md",
+    "DiscourseGraph/QUE - How does the cell know to breathe?.md",
     "DiscourseGraph/QUE - How do disordered protein regions encode function?.md",
+    "DiscourseGraph/EXP - MD simulations with (GS)25-RBDSCO2 chimera.md",
+    "Projects/My awseome new projects.canvas",
+    "Projects/PRJ - my awesome new project.md",
+    "DiscourseGraph/EXP - protocol with cell line xyz.md",
+    "DiscourseGraph/RES - cells died after 15 days in the lab.md",
+    "DiscourseGraph/RES - cells emitted xyz measures over the time course of the simulation.md",
+    "DiscourseGraph/CLM - the barrier helps cells regulate breathing by injecting fun.md",
+    "DiscourseGraph/QUE - What does the barrier do to help cells regulate breathing?.md",
+    "Meta/Templates/Project.md",
+    "Projects/PRJ - my shiny new project.md",
     "Projects/PRJ - Molecular determinants of evolutionary conservation in disordered protein regions.md",
-    "Meta",
-    "Meta/Templates/Experiment.md",
+    "Lab Meeting Notes 2025.md",
     "DiscourseGraph/RES - repeated association and dissociation events between (rU)25 and the (GS)25-RBD constructs.md",
+    "Andrea Soranno.md",
+    "Meta/Templates/Personal Home Page.md",
+    "Alex Holehouse.md",
+    "Bases/Projects.base",
     "Meta/Templates/Result.md",
-    "DiscourseGraph/RES - (GS)25-RBD suppressed RNA binding compared to the RBD alone.md",
+    "Meta/Templates/Experiment.md",
+    "Projects/Molecular determinants of evolutionary conservation.canvas",
+    "Meta/Conventions.md",
+    "DiscourseGraph/CLM - “Inert” intrinsically disordered regions suppress RNA binding.md",
+    "Bases/Questions.base",
+    "Bases/Results.base",
+    "Protocols/Molecular determinant simulation experiments.md",
+    "Protocols",
+    "Jhullian J. Alston.md",
+    "Bases/Experiments.base",
+    "Meta",
     "Templates/Untitled",
     "Meta/Templates",
-    "DiscourseGraph/CLM - “Inert” intrinsically disordered regions suppress RNA binding.md",
-    "Projects/Molecular determinants of evolutionary conservation.canvas",
     "Meta/Attachments/CleanShot 2025-09-11 at 16.55.46.png",
     "Projects",
-    "DiscourseGraph/QUE - What determines specificity in IDR-mediated interactions?.md",
-    "DiscourseGraph/PRJ - Disordered bioprotein region biophysics.md",
-    "Untitled 1.md",
-    "Untitled.md",
     "Bases",
-    "Meta/Attachments",
-    "DiscourseGraph/QUE - How do disordered proteins drive self-assembly in the context of biological phase separation?.md",
-    "RES - repeated association and dissociation events between (rU)25 and the (GS)25-RBD constructs.md",
-    "RES - repeated association and dissociation events between (rU)25 and the (GS)25-RBD constructs 1.md",
     "Meta/Attachments/CleanShot 2025-09-11 at 16.14.05.png",
     "Meta/Attachments/CleanShot 2025-09-11 at 16.12.52.png"
   ]

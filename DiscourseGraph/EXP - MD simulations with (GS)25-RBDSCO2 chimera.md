@@ -13,8 +13,9 @@ contributors:
 ---
 # Resources
 
-Protocol:
-Git repo:
+Protocol: [[Molecular determinant simulation experiments]]
+Git repo: 
+Benchling: 
 # Results
 
 ![[Results.base#Results from this Experiment]]
