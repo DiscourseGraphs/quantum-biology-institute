@@ -6,10 +6,10 @@ rel_5nnUOb6wBzlAwAF2Wk-ts:
   - "[[RES - (GS)25-RBD suppressed RNA binding compared to the RBD alone.md]]"
 project: "[[PRJ - Molecular determinants of evolutionary conservation in disordered protein regions]]"
 status: Completed
-lead: "[[Jhullian J. Alston]]"
+lead: "[[Esther Lederberg]]"
 contributors:
-  - "[[Alex Holehouse]]"
-  - "[[Andrea Soranno]]"
+  - "[[Rosalind Franklin]]"
+  - "[[Joshua Lederberg]]"
 ---
 # Resources
 

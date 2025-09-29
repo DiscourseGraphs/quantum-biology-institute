@@ -1,10 +1,10 @@
 ---
 status: Ongoing
 targetQuestionOrHyp: "[[QUE - How do different coronavirus NTD-RBDs bind to single-stranded RNA (ssRNA)?]]"
-lead: "[[Alex Holehouse]]"
+lead: "[[Rosalind Franklin]]"
 contributors:
-  - "[[Andrea Soranno]]"
-  - "[[Jhullian J. Alston]]"
+  - "[[Joshua Lederberg]]"
+  - "[[Esther Lederberg]]"
 ---
 # Resources
 
