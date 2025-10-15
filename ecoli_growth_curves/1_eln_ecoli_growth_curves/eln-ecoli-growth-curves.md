@@ -91,7 +91,7 @@ E.coli growth in M9 media is GLACIALLY SLOW... Should move to LB for now.
 
 ![[20250613_182046.jpg]]
 
-[[EVD - 6-13 slightly slower growth curve in hypomagnetic conditions]]
+[[../../results/discourse_graph/EVD - 6-13 E. coli in LB grew slightly slower in hypomagnetic conditions]]
 
 |                     | A     | B     | C     | H     | I     | J     |
 | ------------------- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -116,7 +116,7 @@ E.coli growth in M9 media is GLACIALLY SLOW... Should move to LB for now.
 | 06/20/2025 01:40 PM | 0.892 | 0.833 | 0.819 | 0.738 | 0.684 | 0.73  |
 | 06/20/2025 04:15 PM | 1.349 | 1.328 | 1.296 | 1.362 | 1.36  | 1.33  |
 | 06/20/2025 05:50 PM | 1.534 | 1.643 | 1.633 | 1.633 | 1.688 | 1.598 |
-[[EVD - 6-20 lag in phase 1 under hypomagnetic conditions, light-controlled]]
+[[../../results/discourse_graph/EVD - 6-20 hypomagnetic conditions lengthened the lag phase of growing E. coli]]
 ![[Pasted image 20250919152552.png]]
 ## **2025/06/25**
 
@@ -151,6 +151,7 @@ E.coli growth in M9 media is GLACIALLY SLOW... Should move to LB for now.
 | 07/01/2025 12:05 PM | 1.038 | 1.038 | 1.013 | 1.001 | 0.977 | 0.989 |
 | 07/01/2025 02:25 PM | 1.629 | 1.64  | 1.539 | 1.558 | 1.595 | 1.667 |
 | 07/01/2025 04:20 PM | 2.009 | 2.077 | 1.942 | 2.046 | 2.027 | 2.082 |
+[[../../results/discourse_graph/EVD - Stationary phase E coli showed no difference in growth rate under hypomagnetic conditions]]
 ![[Pasted image 20250919152355.png]]
 
 Pretty sure I started at too high an OD

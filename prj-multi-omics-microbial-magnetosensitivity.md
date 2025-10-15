@@ -36,9 +36,14 @@ Using fast organisms and fast transcriptomics assays from kits, we hope to have 
 
 # What we are learning (so far)
 
-Based on our work [calibrating the Twinleaf for use in the Maryland lab](twinleaf_calibration/1_eln_twinleaf_calibration/eln-twinleaf-calibration.md), we've established that:
+Based on our work [calibrating the Twinleaf for use in the Maryland lab](twinleaf_calibration/1_eln_twinleaf_calibration/eln-twinleaf-calibration.md), we've established that the degaussing procedure is extremely effective in reducing the residual magnetic field.
 
 And based on our ongoing tests on [growth curve responses to hypomagnetic conditions E.coli](ecoli_growth_curves/1_eln_ecoli_growth_curves/eln-ecoli-growth-curves.md), with our first model microbe, we've established that:
-- [EVD - 6-20 lag in phase 1 under hypomagnetic conditions, light-controlled](results/discourse_graph/EVD%20-%206-20%20lag%20in%20phase%201%20under%20hypomagnetic%20conditions,%20light-controlled.md)
-- 
+- [EVD - 6-20 hypomagnetic conditions lengthened the lag phase of growing E. coli](results/discourse_graph/EVD%20-%206-20%20hypomagnetic%20conditions%20lengthened%20the%20lag%20phase%20of%20growing%20E.%20coli.md)
+It doesn't seem like the effect was influenced by the following conditions:
+* light/dark
+* polarity of magnet
+* air availability (sealed vs gas exchange)
+
+One time, when grown from stationary phase (very high OD): [EVD - Stationary phase E coli showed no difference in growth rate under hypomagnetic conditions](results/discourse_graph/EVD%20-%20Stationary%20phase%20E%20coli%20showed%20no%20difference%20in%20growth%20rate%20under%20hypomagnetic%20conditions.md)
 # What we think this means and what should be done next (so far)
