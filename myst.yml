@@ -1,0 +1,94 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: b4b692c5-23eb-4605-a0dd-cd1142c6df0f
+  title: "Biology research in Maryland"
+  subtitle: "Biology research performed in Maryland"
+  description: Research being performed by Michael Montague in MD for the Quantum Biology Institute
+  thumbnail: "_static/Profile Pic - institute.png"
+  banner: "_static/Linkedin Banner 02 - Institute.png"
+  open_access: true
+  license: CC-BY-4.0
+
+  toc:
+  - file: "prj-multi-omics-microbial-magnetosensitivity.md"
+    title: "Home"
+
+  - title: "Project: e.coli growth curves"
+    children:
+      - title: "Chapter 1: ELN"
+        children:
+          - file: "./ecoli_growth_curves/1_eln_ecoli_growth_curves/eln-ecoli-growth-curves.md"
+        #  - file: "volume1/chapter1/section1.md"
+         #   title: "Subchapter 1.1: Basics"
+         # - file: "volume1/chapter1/section2.md"
+          #  title: "Subchapter 1.2: Setup"
+      #- title: "Chapter 3: Code"
+       # children:
+        #  - file: "volume1/chapter2/intro.md"
+         # - file: "volume1/chapter2/section1.md"
+          #  title: "Subchapter 2.1: Theory"
+         # - file: "volume1/chapter2/section2.md"
+          #  title: "Subchapter 2.2: Examples"
+
+  - title: "Project: Twinleaf calibration"
+    children:
+      - title: "Chapter 1: ELN"
+        children:
+          - file: "./twinleaf_calibration/1_eln_twinleaf_calibration/eln-twinleaf-calibration.md"
+          #- file: "volume2/chapter1/section1.md"
+           # title: "Subchapter 1.1: Methods"
+          #- file: "volume2/chapter1/section2.md"
+           # title: "Subchapter 1.2: Applications"
+      - title: "Chapter 3: Code"
+        children:
+          - file: "./twinleaf_calibration/3_code_twinleaf_calibration/arduino_sensor_reading.md"
+          - file: "./twinleaf_calibration/3_code_twinleaf_calibration/get_sensor_readings.ipynb"
+          #  title: "Subchapter 2.1: Research"
+          #- file: "volume2/chapter2/section2.md"
+          #  title: "Subchapter 2.2: Practice"
+  - title: "Findings: Microbial magnetosensitivity"
+    children:
+      - title: "Results"
+        children:
+          - file: "./results/discourse_graph/EVD - 6-13 slightly slower growth curve in hypomagnetic conditions.md"
+          - file: "./results/discourse_graph/EVD - 6-20 lag in phase 1 under hypomagnetic conditions, light-controlled.md"
+          - file: "./results/discourse_graph/EVD - 6-25 phase 1 lag under hypomagnetic conditions starting from stationary phase cells.md"
+
+site:
+  template: book-theme
+  options:
+     favicon: "_static/Favicon - institute.png"
+     logo: "_static/Copy of QuBio Institute Primary Light Mode.png"
+     logo_dark: "_static/Copy of QuBio Institute Primary Dark Mode.png"
+     style: "_static/style.css"
+
+sphinx:
+  extra_extensions:
+    - obsidian_links
+  # If your extension lives in _static, make sure Sphinx sees it:
+  config:
+    sys_path:
+      - _static
+
+# keywords:
+#   - biology
+#   - e.coli
+#   - omics
+# authors:
+#   - name: Michael Montague
+#     affiliations:
+#       - Quantum Biology Institute, Craig J. Venter Institute
+#     orcid:
+#      corresponding: true
+#      email: montague@quantumbiology.org
+# date: 2022-05-11
+# doi:
+# funding: This work was supported by the Quantum Biology DAO.
+# github:
+# copyright:
+# social: url/x/bluesky/linkedin/github
+# orcid:
+# corresponding:
+# email:
+# roles: 

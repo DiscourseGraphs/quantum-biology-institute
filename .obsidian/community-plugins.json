@@ -1,7 +1,9 @@
 [
+  "file-order",
   "obsidian42-brat",
-  "obsidian-tasks-plugin",
   "datacore",
   "discourse-graphs",
-  "obsidian-outliner"
+  "obsidian-copy-block-link",
+  "nldates-obsidian",
+  "advanced-canvas"
 ]

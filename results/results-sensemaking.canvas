@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"5ee14ae34b9f2447","type":"text","text":"light controlled?","x":240,"y":-840,"width":570,"height":240},
+		{"id":"954cc70d47f59eed","type":"file","file":"results/discourse_graph/EVD - 5-09 no lag phase difference, faster growth in hypomagnetic condition.md","x":-320,"y":440,"width":400,"height":638},
+		{"id":"24dee4e916a12a5e","type":"file","file":"results/discourse_graph/EVD - 6-25 phase 1 lag under hypomagnetic conditions starting from stationary phase cells.md","x":120,"y":440,"width":400,"height":638},
+		{"id":"f9991a03b8d31026","type":"file","file":"results/discourse_graph/EVD - 6-20 lag in phase 1 under hypomagnetic conditions, light-controlled.md","x":560,"y":440,"width":400,"height":638},
+		{"id":"03c614d0083572b2","type":"file","file":"results/discourse_graph/EVD - 6-13 slightly slower growth curve in hypomagnetic conditions.md","x":560,"y":-320,"width":400,"height":680}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

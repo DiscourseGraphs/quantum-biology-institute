@@ -1,51 +1,162 @@
 {
   "main": {
-    "id": "750363806bdce05d",
+    "id": "e8cfb9560cf07760",
     "type": "split",
     "children": [
       {
-        "id": "b32e169d515f85f9",
+        "id": "3e88519e2f73e832",
         "type": "tabs",
+        "dimension": 48.751910341314314,
         "children": [
           {
-            "id": "4ff6877ba1245243",
+            "id": "c0ccffc045f1a769",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "results/discourse_graph/EVD - 6-25 phase 1 lag under hypomagnetic conditions starting from stationary phase cells.md",
                 "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "EVD - 6-25 phase 1 lag under hypomagnetic conditions starting from stationary phase cells"
+            }
+          },
+          {
+            "id": "abc1c3a8d126f2d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "results/discourse_graph/EVD - 6-13 slightly slower growth curve in hypomagnetic conditions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "EVD - 6-13 slightly slower growth curve in hypomagnetic conditions"
+            }
+          },
+          {
+            "id": "5d0fc1f09fe8c308",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "results/discourse_graph/EVD - 6-20 lag in phase 1 under hypomagnetic conditions, light-controlled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "EVD - 6-20 lag in phase 1 under hypomagnetic conditions, light-controlled"
             }
           }
         ]
+      },
+      {
+        "id": "f2eceed61d7053c2",
+        "type": "tabs",
+        "dimension": 51.24808965868568,
+        "children": [
+          {
+            "id": "0a489fcd2c258d06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ecoli_growth_curves/1_eln_ecoli_growth_curves/eln-ecoli-growth-curves.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "eln-ecoli-growth-curves"
+            }
+          },
+          {
+            "id": "68044e589fcf1add",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "results/discourse_graph/EVD - 5-09 no lag phase difference, faster growth in hypomagnetic condition.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "EVD - 5-09 no lag phase difference, faster growth in hypomagnetic condition"
+            }
+          },
+          {
+            "id": "e9a47d1b9d071daf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "results/discourse_graph/EVD - 6-13 slightly slower growth curve in hypomagnetic conditions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "EVD - 6-13 slightly slower growth curve in hypomagnetic conditions"
+            }
+          },
+          {
+            "id": "ea5ec9c961dbddd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ecoli_growth_curves/1_eln_ecoli_growth_curves/eln-ecoli-growth-curves.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "eln-ecoli-growth-curves"
+            }
+          },
+          {
+            "id": "9a28845493e268ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "results/discourse_graph/EVD - 5-09 no lag phase difference, faster growth in hypomagnetic condition.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "EVD - 5-09 no lag phase difference, faster growth in hypomagnetic condition"
+            }
+          },
+          {
+            "id": "d518e1790148dedb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "results/discourse_graph/EVD - 6-13 slightly slower growth curve in hypomagnetic conditions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "EVD - 6-13 slightly slower growth curve in hypomagnetic conditions"
+            }
+          }
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "d6103d8d34bceec5",
+    "id": "4b367ec89d91bc92",
     "type": "split",
     "children": [
       {
-        "id": "939e2c1b239fc2f5",
+        "id": "27fc1180871d9e0b",
         "type": "tabs",
         "children": [
           {
-            "id": "a69ad3d5a19a22d0",
+            "id": "dbd8eb94af28c41a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -58,7 +169,7 @@
             }
           },
           {
-            "id": "0c37a9092246685e",
+            "id": "25d3179da635af90",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -75,7 +186,7 @@
             }
           },
           {
-            "id": "6a76219fee2195b6",
+            "id": "ae81bca1be20907d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -87,22 +198,22 @@
         ]
       },
       {
-        "id": "e52e294e0fa98412",
+        "id": "80f38c16416a163c",
         "type": "tabs",
         "children": [
           {
-            "id": "67bfb222e956a96c",
+            "id": "a37708f1054582e1",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "results/discourse_graph/EVD - 6-25 phase 1 lag under hypomagnetic conditions starting from stationary phase cells.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of EVD - 6-25 phase 1 lag under hypomagnetic conditions starting from stationary phase cells"
             }
           }
         ]
@@ -112,20 +223,20 @@
     "width": 300
   },
   "right": {
-    "id": "a582dba13686c1bb",
+    "id": "7bc9d34c9578fc4f",
     "type": "split",
     "children": [
       {
-        "id": "20ead488910a9658",
+        "id": "a6be6d3a60e67df9",
         "type": "tabs",
         "children": [
           {
-            "id": "188958fa6e2832f8",
+            "id": "72651d63f91e1a28",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DiscourseGraph/QUE - How do disordered proteins drive self-assembly in the context of biological phase separation?.md",
+                "file": "results/discourse_graph/EVD - 6-25 phase 1 lag under hypomagnetic conditions starting from stationary phase cells.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,25 +246,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for QUE - How do disordered proteins drive self-assembly in the context of biological phase separation?"
+              "title": "Backlinks for EVD - 6-25 phase 1 lag under hypomagnetic conditions starting from stationary phase cells"
             }
           },
           {
-            "id": "5b79f80cd5d8be7a",
+            "id": "b738e5cb477d1276",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DiscourseGraph/QUE - How do disordered proteins drive self-assembly in the context of biological phase separation?.md",
+                "file": "results/discourse_graph/EVD - 6-25 phase 1 lag under hypomagnetic conditions starting from stationary phase cells.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from QUE - How do disordered proteins drive self-assembly in the context of biological phase separation?"
+              "title": "Outgoing links from EVD - 6-25 phase 1 lag under hypomagnetic conditions starting from stationary phase cells"
             }
           },
           {
-            "id": "6f7cfa3c4eabe0ee",
+            "id": "e94cac785afcbe09",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -166,23 +277,12 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
-          },
-          {
-            "id": "806360f26703ea6b",
-            "type": "leaf",
-            "state": {
-              "type": "discourse-context-view",
-              "state": {},
-              "icon": "telescope",
-              "title": "Discourse Context"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 367.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,47 +297,54 @@
       "discourse-graphs:Toggle Discourse Context": false
     }
   },
-  "active": "4ff6877ba1245243",
+  "active": "c0ccffc045f1a769",
   "lastOpenFiles": [
-    "Projects/My awseome new projects.canvas",
-    "README.md",
-    "Projects/Molecular determinants of evolutionary conservation.canvas",
-    "Home.md",
-    "Joshua Lederberg.md",
-    "Esther Lederberg.md",
-    "Rosalind Franklin.md",
-    "Lab Meeting Notes 2025.md",
-    "DiscourseGraph/EXP - MD simulations with (GS)25-RBDSCO2 chimera.md",
-    "DiscourseGraph/QUE - How do different coronavirus NTD-RBDs bind to single-stranded RNA (ssRNA)?.md",
-    "DiscourseGraph/QUE - How do inert IDRs affect binding affinity?.md",
-    "DiscourseGraph/RES - (GS)25-RBD suppressed RNA binding compared to the RBD alone.md",
-    "RES - repeated association and dissociation events between (rU)25 and the (GS)25-RBD constructs.md",
-    "Projects/PRJ - Molecular determinants of evolutionary conservation in disordered protein regions.md",
-    "DiscourseGraph/QUE - How do disordered proteins drive self-assembly in the context of biological phase separation?.md",
-    "DiscourseGraph/QUE - How does the cell know to breathe?.md",
-    "DiscourseGraph/QUE - How do disordered protein regions encode function?.md",
-    "Projects/PRJ - my awesome new project.md",
-    "DiscourseGraph/EXP - protocol with cell line xyz.md",
-    "DiscourseGraph/RES - cells died after 15 days in the lab.md",
-    "DiscourseGraph/RES - cells emitted xyz measures over the time course of the simulation.md",
-    "DiscourseGraph/CLM - the barrier helps cells regulate breathing by injecting fun.md",
-    "DiscourseGraph/QUE - What does the barrier do to help cells regulate breathing?.md",
-    "Meta/Templates/Project.md",
-    "Projects/PRJ - my shiny new project.md",
-    "DiscourseGraph/RES - repeated association and dissociation events between (rU)25 and the (GS)25-RBD constructs.md",
-    "Meta/Templates/Personal Home Page.md",
-    "Bases/Projects.base",
-    "Bases/Questions.base",
-    "Bases/Results.base",
-    "Protocols",
-    "Bases/Experiments.base",
-    "Meta",
-    "Templates/Untitled",
-    "Meta/Templates",
-    "Meta/Attachments/CleanShot 2025-09-11 at 16.55.46.png",
-    "Projects",
-    "Bases",
-    "Meta/Attachments/CleanShot 2025-09-11 at 16.14.05.png",
-    "Meta/Attachments/CleanShot 2025-09-11 at 16.12.52.png"
+    "_build/html/myst.search.json",
+    "_build/html/myst.xref.json",
+    "_build/html/objects.inv",
+    "_build/html/config.json",
+    "_build/html/build/style-d9293b32ffe34b239c898b2d84313412.css",
+    "_build/html/build/prj-multi-omics-micr-50baceb24949c9179987c99aa322d2e8.md",
+    "_build/html/build/get_sensor_readings-2273f7605c91f1935ed29d73c2ade7f8.ipynb",
+    "_build/html/build/eln-twinleaf-calibra-5ac1744bf4f29b599b008bbd79c048a9.md",
+    "_build/html/build/eln-ecoli-growth-cur-6f3dad49f902a08d3a476308a704b73d.md",
+    "_build/html/build/ef76a2a1e80db75a7509e187e042285e.png",
+    "_build/html/build/b4a4e6ec57e6bfe20e238f75184b6cbe.png",
+    "_build/html/build/b3744d7b5b6b6f0bdbce455552984bd8.png",
+    "_build/html/build/arduino_sensor_readi-2d19c81599bdb021198c2b433b468619.md",
+    "_build/html/build/Profile Pic - instit-0d2c35bc09cbc7ecec350e9e1e2c7203.webp",
+    "_build/html/build/Profile Pic - instit-0d2c35bc09cbc7ecec350e9e1e2c7203.png",
+    "_build/html/build/Linkedin Banner 02 --3b06b02fd048026ba7a1682e9110a3fd.webp",
+    "_build/html/build/Linkedin Banner 02 --3b06b02fd048026ba7a1682e9110a3fd.png",
+    "_build/html/build/IMG_1107-32792cb472930a9da758c5b423cc5995.jpeg",
+    "_build/html/build/IMG_1106-9087711eb9174a26463d48cbec3b1750.jpeg",
+    "_build/html/build/IMG_1105-d35d0c3926fbca770efdcade1dc8fd52.jpeg",
+    "_build/html/build/EVD - 6-25 phase 1 l-6c4e339e4b4e7645ca5453717ccbd02a.md",
+    "_build/html/build/EVD - 6-25 phase 1 l-0b0e8400319b731358c253573611e126.md",
+    "_build/html/build/EVD - 6-20 lag in ph-5c37e16b639a0fa8e324b738d79f1f09.md",
+    "_build/html/build/EVD - 6-13 slightly -dfa7b67c0b5a389a957d7c60b2faed01.md",
+    "_build/html/thebe-lite.min.js",
+    "_build/html/thebe-core.min.js",
+    "_build/html/thebe-core.css",
+    "_build/html/service-worker.js",
+    "_build/html/build/routes/myst-theme[.css]-W2BE6ZFC.js",
+    "_build/site/public/EVD - 6-25 phase 1 l-6c4e339e4b4e7645ca5453717ccbd02a.md",
+    "results/results-sensemaking-workbench.md",
+    "results/discourse_graph/EVD - 6-13 slightly slower growth curve in hypomagnetic conditions.md",
+    "_build/site/public/eln-ecoli-growth-cur-6f3dad49f902a08d3a476308a704b73d.md",
+    "_build/site/public/EVD - 6-25 phase 1 l-0b0e8400319b731358c253573611e126.md",
+    "_build/site/public/EVD - 6-20 lag in ph-5c37e16b639a0fa8e324b738d79f1f09.md",
+    "_build/site/public/EVD - 6-13 slightly -dfa7b67c0b5a389a957d7c60b2faed01.md",
+    "_build/site/public/arduino_sensor_readi-2d19c81599bdb021198c2b433b468619.md",
+    "_build/site/public/eln-twinleaf-calibra-5ac1744bf4f29b599b008bbd79c048a9.md",
+    "_build/site/public/prj-multi-omics-micr-50baceb24949c9179987c99aa322d2e8.md",
+    "_build/templates/site/myst/book-theme/node_modules/@zxing/text-encoding/README.md",
+    "_build/templates/site/myst/book-theme/node_modules/@zxing/text-encoding/LICENSE.md",
+    "_build/templates/site/myst/book-theme/node_modules/web-streams-polyfill/README.md",
+    "_build/templates/site/myst/book-theme/node_modules/@remix-run/router/LICENSE.md",
+    "_build/templates/site/myst/book-theme/node_modules/@remix-run/router/README.md",
+    "_build/templates/site/myst/book-theme/node_modules/@remix-run/router/CHANGELOG.md",
+    "_build/templates/site/myst/book-theme/node_modules/web-encoding/Readme.md",
+    "results/results-sensemaking.canvas"
   ]
 }

@@ -1,0 +1,15 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - nodeTypeId == "node_MjGSUCfqC-QNUtTeqeaPM"
+        - file.path.startsWith("results/discourse_graph")
+    order:
+      - file.name
+      - status
+      - eln
+      - file.ctime
+    columnSize:
+      file.name: 414
+      note.status: 85

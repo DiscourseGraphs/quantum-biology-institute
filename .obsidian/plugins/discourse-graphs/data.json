@@ -1,124 +1,59 @@
 {
   "nodeTypes": [
     {
-      "id": "node_4SqRl5RIkaUMb9fLOpdhq",
+      "id": "node_CTdKupATOGKNtuGCdcBuP",
       "name": "Question",
       "format": "QUE - {content}",
       "color": "#99890e"
     },
     {
-      "id": "node_LwROzkVH_Zck7ZxDgN91E",
+      "id": "node_9oGVtVtNpA6tqvQQQkeoX",
       "name": "Claim",
       "format": "CLM - {content}",
       "color": "#7DA13E"
     },
     {
-      "id": "node_xQmEzWQFHdHy2swhrugrF",
+      "id": "node_MjGSUCfqC-QNUtTeqeaPM",
       "name": "Evidence",
       "format": "EVD - {content}",
-      "color": "#DB134A"
-    },
-    {
-      "id": "node_Qbdr-LbBCb_WjPFNTnjTX",
-      "name": "Experiment",
-      "format": "EXP - {content}",
-      "template": "Experiment",
-      "color": "#9a9898"
-    },
-    {
-      "id": "node_i7PzyKw2NfkA8asBfxeey",
-      "name": "Result",
-      "format": "RES - {content}",
-      "template": "Result",
-      "color": "#df3434"
-    },
-    {
-      "id": "node_-PIYSmr5icSFMACYAUobE",
-      "name": "Source",
-      "format": "@{content}",
-      "template": "",
-      "color": "#b7b4b4"
+      "color": "#DB134A",
+      "template": "t - evidence"
     }
   ],
   "relationTypes": [
     {
-      "id": "relation_Fvz-iAdQfeqSsmpKkZBN0",
+      "id": "relation_9Ot5UCNE1XhndbPn3tf_G",
       "label": "supports",
       "complement": "is supported by"
     },
     {
-      "id": "relation_eGQp4gFgaNvQsJd3x8Nj9",
+      "id": "relation_iqMprMfxPOrN6xDxHHZH1",
       "label": "opposes",
       "complement": "is opposed by"
     },
     {
-      "id": "relation_G8GMDxjFv_e5ePzoR7uYn",
+      "id": "relation_ZHloitDNAT21AQ0EIGX_j",
       "label": "informs",
       "complement": "is informed by"
-    },
-    {
-      "id": "rel_5nnUOb6wBzlAwAF2Wk-ts",
-      "label": "produces",
-      "complement": "is produced by"
-    },
-    {
-      "id": "rel_E2h9UFdS53YWki3-nczo0",
-      "label": "consistent with",
-      "complement": "consistent with"
     }
   ],
   "discourseRelations": [
     {
-      "sourceId": "node_xQmEzWQFHdHy2swhrugrF",
-      "destinationId": "node_4SqRl5RIkaUMb9fLOpdhq",
-      "relationshipTypeId": "relation_G8GMDxjFv_e5ePzoR7uYn"
+      "sourceId": "node_MjGSUCfqC-QNUtTeqeaPM",
+      "destinationId": "node_CTdKupATOGKNtuGCdcBuP",
+      "relationshipTypeId": "relation_ZHloitDNAT21AQ0EIGX_j"
     },
     {
-      "sourceId": "node_xQmEzWQFHdHy2swhrugrF",
-      "destinationId": "node_LwROzkVH_Zck7ZxDgN91E",
-      "relationshipTypeId": "relation_Fvz-iAdQfeqSsmpKkZBN0"
+      "sourceId": "node_MjGSUCfqC-QNUtTeqeaPM",
+      "destinationId": "node_9oGVtVtNpA6tqvQQQkeoX",
+      "relationshipTypeId": "relation_9Ot5UCNE1XhndbPn3tf_G"
     },
     {
-      "sourceId": "node_xQmEzWQFHdHy2swhrugrF",
-      "destinationId": "node_LwROzkVH_Zck7ZxDgN91E",
-      "relationshipTypeId": "relation_eGQp4gFgaNvQsJd3x8Nj9"
-    },
-    {
-      "sourceId": "node_Qbdr-LbBCb_WjPFNTnjTX",
-      "destinationId": "node_i7PzyKw2NfkA8asBfxeey",
-      "relationshipTypeId": "rel_5nnUOb6wBzlAwAF2Wk-ts"
-    },
-    {
-      "sourceId": "node_i7PzyKw2NfkA8asBfxeey",
-      "destinationId": "node_LwROzkVH_Zck7ZxDgN91E",
-      "relationshipTypeId": "relation_Fvz-iAdQfeqSsmpKkZBN0"
-    },
-    {
-      "sourceId": "node_i7PzyKw2NfkA8asBfxeey",
-      "destinationId": "node_LwROzkVH_Zck7ZxDgN91E",
-      "relationshipTypeId": "relation_eGQp4gFgaNvQsJd3x8Nj9"
-    },
-    {
-      "sourceId": "node_LwROzkVH_Zck7ZxDgN91E",
-      "destinationId": "node_4SqRl5RIkaUMb9fLOpdhq",
-      "relationshipTypeId": "relation_G8GMDxjFv_e5ePzoR7uYn"
-    },
-    {
-      "sourceId": "node_4SqRl5RIkaUMb9fLOpdhq",
-      "destinationId": "node_4SqRl5RIkaUMb9fLOpdhq",
-      "relationshipTypeId": "relation_G8GMDxjFv_e5ePzoR7uYn"
-    },
-    {
-      "sourceId": "node_LwROzkVH_Zck7ZxDgN91E",
-      "destinationId": "node_i7PzyKw2NfkA8asBfxeey",
-      "relationshipTypeId": "rel_E2h9UFdS53YWki3-nczo0"
-    },
-    {
-      "sourceId": "node_LwROzkVH_Zck7ZxDgN91E",
-      "destinationId": "node_xQmEzWQFHdHy2swhrugrF",
-      "relationshipTypeId": "rel_E2h9UFdS53YWki3-nczo0"
+      "sourceId": "node_MjGSUCfqC-QNUtTeqeaPM",
+      "destinationId": "node_9oGVtVtNpA6tqvQQQkeoX",
+      "relationshipTypeId": "relation_iqMprMfxPOrN6xDxHHZH1"
     }
   ],
-  "showIdsInFrontmatter": false,
-  "nodesFolderPath": "DiscourseGraph"
+  "showIdsInFrontmatter": true,
+  "nodesFolderPath": "results/discourse_graph"
 }

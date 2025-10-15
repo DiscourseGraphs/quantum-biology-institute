@@ -1,0 +1,110 @@
+/* ---------------------------
+   Local fonts: Apercu (text)
+   --------------------------- */
+@font-face {
+  font-family: "Apercu";
+  src: url("/fonts/Apercu/apercu-regular.woff2") format("woff2"),
+       url("/fonts/Apercu/apercu-regular.woff") format("woff"),
+       url("/fonts/Apercu/apercu-regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Apercu";
+  src: url("/fonts/Apercu/apercu-italic.woff2") format("woff2"),
+       url("/fonts/Apercu/apercu-italic.woff") format("woff"),
+       url("/fonts/Apercu/apercu-italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Apercu";
+  src: url("/fonts/Apercu/apercu-medium.woff2") format("woff2"),
+       url("/fonts/Apercu/apercu-medium.woff") format("woff"),
+       url("/fonts/Apercu/apercu-medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Apercu";
+  src: url("/fonts/Apercu/apercu-medium-italic.woff2") format("woff2"),
+       url("/fonts/Apercu/apercu-medium-italic.woff") format("woff"),
+       url("/fonts/Apercu/apercu-medium-italic.ttf") format("truetype");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Apercu";
+  src: url("/fonts/Apercu/apercu-bold.woff2") format("woff2"),
+       url("/fonts/Apercu/apercu-bold.woff") format("woff"),
+       url("/fonts/Apercu/apercu-bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Apercu";
+  src: url("/fonts/Apercu/apercu-bold-italic.woff2") format("woff2"),
+       url("/fonts/Apercu/apercu-bold-italic.woff") format("woff"),
+       url("/fonts/Apercu/apercu-bold-italic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* ---------------------------
+   Local fonts: Chap (headings)
+   You have WOFF for Medium, TTF for Italic — that’s fine.
+   --------------------------- */
+@font-face {
+  font-family: "Chap";
+  src: url("/fonts/Chap/Chap Medium.woff") format("woff"),
+       url("/fonts/Chap/ChapMedium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Chap";
+  src: url("/fonts/Chap/ChapMediumItalic.ttf") format("truetype");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* ---------------------------
+   Apply to the site
+   --------------------------- */
+html, body {
+  font-family: "Apercu", system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue",
+               Arial, "Noto Sans", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",
+               sans-serif;
+  font-weight: 400;
+  line-height: 1.6;
+}
+
+/* Headings use Chap; fall back to Apercu then generic serif */
+h1, h2, h3, h4, h5, h6,
+.header-article-title, .page-title {
+  font-family: "Chap", "Apercu", serif;
+  font-weight: 500;
+  letter-spacing: -0.01em;
+}
+
+/* Emphasis keeps the correct faces */
+em, i { font-style: italic; }
+strong, b { font-weight: 700; }
+
+/* Monospace for code stays separate */
+code, pre, kbd, samp {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
+               "Liberation Mono", "Courier New", monospace;
+}
+
+/* Optional: slightly tighten big headings */
+h1 { line-height: 1.2; }
+h2 { line-height: 1.25; }

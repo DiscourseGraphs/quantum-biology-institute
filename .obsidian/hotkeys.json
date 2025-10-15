@@ -1,11 +1,26 @@
 {
-  "obsidian-tasks-plugin:toggle-done": [
+  "obsidian-copy-block-link:copy-link-to-block": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    }
+  ],
+  "editor:toggle-checklist-status": [
     {
       "modifiers": [
         "Mod"
       ],
+      "key": "l"
+    },
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
       "key": "Enter"
     }
-  ],
-  "editor:open-link-in-new-leaf": []
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Meta/Attachments",
-  "readableLineLength": false
+  "showUnsupportedFiles": true,
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative"
 }
