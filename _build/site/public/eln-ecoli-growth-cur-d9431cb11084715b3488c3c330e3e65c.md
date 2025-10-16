@@ -177,7 +177,7 @@ Pretty sure I started at too high an OD
 |07/08/2025 02:55 PM|1.127|1.279|1.065|1.101|
 
 ![Pasted image 20250919151806](attachments/Pasted%20image%2020250919151806.png)
-#evd-candidate no gas-exchange lag phase diff result replicated, also robust to gas exchange
+[[EVD - no gas-exchange lag phase diff result replicated, also robust to gas exchange]]
 ## **2025/07/19**
 
 ### Second Transcriptomic RNA collection 

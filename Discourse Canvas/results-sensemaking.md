@@ -1,6 +1,57 @@
+
+[[../results/discourse_graph/EVD - Hypomagnetic fields extended the lag phase of E coli growth, beginning with stationary-phase cells]]
+^ba977a84-1f3f-410a-a0b3-3331a02f1b2b
+
+[[../results/discourse_graph/CLM - ALL life responds to magnetic fields]]
+^32378716-287a-40de-aec1-44d074686afb
+
+[[../attachments/84a6216e-ef72-4c31-9219-ab4e37e66f18-CleanShot-2025-10-15-at-22-49-08-png.png]]
+^84a6216e-ef72-4c31-9219-ab4e37e66f18
+
+[[../attachments/3a12dee8-a164-4a80-8d92-81f6bc337f45-CleanShot-2025-10-15-at-22-49-08-png.png]]
+^3a12dee8-a164-4a80-8d92-81f6bc337f45
+
+[[../attachments/3633463b-b6b5-4223-881d-09eab702636c-CleanShot-2025-10-15-at-22-49-08-png.png]]
+^3633463b-b6b5-4223-881d-09eab702636c
+
+[[../attachments/e8aa4134-f325-4b8f-9941-3b5dd36ab112-CleanShot-2025-10-15-at-22-49-08-png.png]]
+^e8aa4134-f325-4b8f-9941-3b5dd36ab112
+
+[[../attachments/b4f21613-6917-4386-981d-7ba4180702e3-CleanShot-2025-10-15-at-22-49-08-png.png]]
+^b4f21613-6917-4386-981d-7ba4180702e3
+
+[[../attachments/17d43b52-c776-4ce8-9c57-d4a2188f14d6-CleanShot-2025-10-15-at-22-49-08-png.png]]
+^17d43b52-c776-4ce8-9c57-d4a2188f14d6
+
+[[../attachments/264b4a58-a2c3-40f4-ad77-6ee400f9eb4a-CleanShot-2025-10-15-at-22-49-08-png.png]]
+^264b4a58-a2c3-40f4-ad77-6ee400f9eb4a
 ---
 tldr-dg: true
 ---
+[[../attachments/b962f4a1-b4cd-4953-b636-64c062c2b59e-CleanShot-2025-10-15-at-22-49-08-png.png]]
+^b962f4a1-b4cd-4953-b636-64c062c2b59e
+
+[[../attachments/a15415f3-af66-46ad-a6a3-e85756bd4963-CleanShot-2025-10-15-at-22-49-08-png.png]]
+^a15415f3-af66-46ad-a6a3-e85756bd4963
+
+[[../attachments/1cc0988a-50d5-4325-82e8-bfbb2c800ed5-CleanShot-2025-10-15-at-22-49-08-png.png]]
+^1cc0988a-50d5-4325-82e8-bfbb2c800ed5
+
+[[../attachments/cbc0ae86-3595-4b6b-8e12-7defce7b1d8d-CleanShot-2025-10-15-at-22-49-08-png.png]]
+^cbc0ae86-3595-4b6b-8e12-7defce7b1d8d
+
+[[../attachments/c7e71d8e-e95e-45f1-afbe-f7f35259fe0e-CleanShot-2025-10-15-at-22-49-08-png.png]]
+^c7e71d8e-e95e-45f1-afbe-f7f35259fe0e
+
+[[../attachments/e08d33c8-b97b-4264-a45c-47ba8eee71fd-CleanShot-2025-10-15-at-22-49-08-png.png]]
+^e08d33c8-b97b-4264-a45c-47ba8eee71fd
+
+[[../attachments/c3de8bea-0d63-424e-9464-49edd75db3d0-CleanShot-2025-10-15-at-22-49-08-png.png]]
+^c3de8bea-0d63-424e-9464-49edd75db3d0
+
+[[../attachments/0f0014b8-1c44-4bad-a1d8-7952e4260127-CleanShot-2025-10-15-at-22-49-08-png.png]]
+^0f0014b8-1c44-4bad-a1d8-7952e4260127
+
 [[../results/discourse_graph/EVD - Stationary phase E coli showed no difference in growth rate under hypomagnetic conditions]]
 ^b1d37ff4-8e07-41c7-a451-2dc62f4e7dfb
 
@@ -30,7 +81,7 @@ tldr-dg: true
 ```json !!!_START_OF_TLDRAW_DG_DATA__DO_NOT_CHANGE_THIS_PHRASE_!!!
 {
 	"meta": {
-		"uuid": "f54bea53-4b49-44bc-9d08-9ce12265b429",
+		"uuid": "1e3e76cc-ab06-422b-95e2-b3daaa46d402",
 		"plugin-version": "0.1.2-alpha-tldraw",
 		"tldraw-version": "3.14.1"
 	},
@@ -73,28 +124,8 @@ tldr-dg: true
 		},
 		"records": [
 			{
-				"x": 442.60924328257465,
-				"y": 377.6573812181159,
-				"rotation": 0,
-				"isLocked": false,
-				"opacity": 1,
-				"meta": {},
-				"id": "shape:7_4RvO1rdC6ulwkQ_8j6m",
-				"type": "discourse-node",
-				"props": {
-					"w": 188.22201489734425,
-					"h": 90.10445271294054,
-					"src": "asset:obsidian.blockref.9f5fa147-25f2-4c77-884e-a0ad3b4f376b",
-					"title": "CLM - ALL life responds to magnetic fields",
-					"nodeTypeId": "node_9oGVtVtNpA6tqvQQQkeoX"
-				},
-				"parentId": "page:page",
-				"index": "aH2LY",
-				"typeName": "shape"
-			},
-			{
-				"x": 432.7981075195759,
-				"y": 690.1379982660546,
+				"x": 388.9821539715759,
+				"y": 671.0103936500041,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
@@ -115,28 +146,10 @@ tldr-dg: true
 			{
 				"id": "pointer:pointer",
 				"typeName": "pointer",
-				"x": 482.93478823189287,
-				"y": 417.7746719936334,
-				"lastActivityTimestamp": 1760578380307,
+				"x": 286.78008248414517,
+				"y": 867.2048670316162,
+				"lastActivityTimestamp": 1760583224533,
 				"meta": {}
-			},
-			{
-				"meta": {},
-				"id": "binding:Wsf3s5HyQiuN8B9dAgyoT",
-				"type": "discourse-relation",
-				"fromId": "shape:AJaehgiNg1onRTIt5A0cc",
-				"toId": "shape:7_4RvO1rdC6ulwkQ_8j6m",
-				"props": {
-					"isPrecise": false,
-					"isExact": false,
-					"normalizedAnchor": {
-						"x": 0.507202758750712,
-						"y": 0.89884283997269
-					},
-					"snap": "none",
-					"terminal": "end"
-				},
-				"typeName": "binding"
 			},
 			{
 				"meta": {},
@@ -157,44 +170,6 @@ tldr-dg: true
 				"typeName": "binding"
 			},
 			{
-				"x": 540.4343585374713,
-				"y": 701.8048704513368,
-				"rotation": 0,
-				"isLocked": false,
-				"opacity": 1,
-				"meta": {},
-				"id": "shape:AJaehgiNg1onRTIt5A0cc",
-				"type": "discourse-relation",
-				"props": {
-					"dash": "draw",
-					"size": "m",
-					"fill": "none",
-					"color": "green",
-					"labelColor": "black",
-					"bend": 0,
-					"start": {
-						"x": 0,
-						"y": 0
-					},
-					"end": {
-						"x": -1.3505167807486487,
-						"y": -161.07770439489877
-					},
-					"arrowheadStart": "none",
-					"arrowheadEnd": "arrow",
-					"text": "supports",
-					"labelPosition": 0.5,
-					"font": "draw",
-					"scale": 1,
-					"kind": "arc",
-					"elbowMidPoint": 0,
-					"relationTypeId": "relation_9Ot5UCNE1XhndbPn3tf_G"
-				},
-				"parentId": "page:page",
-				"index": "aI2RM",
-				"typeName": "shape"
-			},
-			{
 				"meta": {},
 				"id": "binding:GWQGR6BLmFvlEHkP8Dzxn",
 				"type": "discourse-relation",
@@ -206,24 +181,6 @@ tldr-dg: true
 					"normalizedAnchor": {
 						"x": 0.4549566650390625,
 						"y": 0.557490234375
-					},
-					"snap": "none",
-					"terminal": "start"
-				},
-				"typeName": "binding"
-			},
-			{
-				"meta": {},
-				"id": "binding:GSJQ3srRUI7WVHU92Kt1M",
-				"type": "discourse-relation",
-				"fromId": "shape:hrp1Fg62hKCeTCS2TRI-t",
-				"toId": "shape:1lh2cNVEjRFemeRvpAaHr",
-				"props": {
-					"isPrecise": false,
-					"isExact": false,
-					"normalizedAnchor": {
-						"x": 0.8905423069995755,
-						"y": 0.43968832034132677
 					},
 					"snap": "none",
 					"terminal": "start"
@@ -249,6 +206,21 @@ tldr-dg: true
 				"parentId": "page:page",
 				"index": "aA7BO",
 				"typeName": "shape"
+			},
+			{
+				"id": "asset:-1795513898",
+				"type": "image",
+				"typeName": "asset",
+				"props": {
+					"name": "CleanShot 2025-10-15 at 22.49.08.png",
+					"src": "asset:obsidian.blockref.3a12dee8-a164-4a80-8d92-81f6bc337f45",
+					"w": 427,
+					"h": 329,
+					"fileSize": 38342,
+					"mimeType": "image/png",
+					"isAnimated": false
+				},
+				"meta": {}
 			},
 			{
 				"x": 541.3988115235271,
@@ -289,48 +261,51 @@ tldr-dg: true
 				"typeName": "shape"
 			},
 			{
-				"x": 263.91422095033226,
-				"y": -21.703927998250137,
-				"z": 0.762233679121987,
+				"x": 9859.595039586167,
+				"y": 9805.295590732056,
+				"z": 0.05,
 				"meta": {},
 				"id": "camera:page:page",
 				"typeName": "camera"
 			},
 			{
+				"x": 890.5986687074545,
+				"y": 918.7977132797241,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
 				"meta": {},
-				"id": "binding:NR_onahaMdScLj7NX0b3A",
-				"type": "discourse-relation",
-				"fromId": "shape:yrdmCvEfG3ipRSASFuu37",
-				"toId": "shape:8C_GDXP_w0sHfOnLcFVNW",
+				"id": "shape:ut-llGmhdHRRmWCJvHzUu",
+				"type": "text",
 				"props": {
-					"isPrecise": false,
-					"isExact": false,
-					"normalizedAnchor": {
-						"x": 0.5241896824022276,
-						"y": 0.21872541581110455
-					},
-					"snap": "none",
-					"terminal": "start"
+					"color": "black",
+					"size": "s",
+					"w": 274.3902282714844,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 1,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "could be too high OD though?"
+									}
+								]
+							}
+						]
+					}
 				},
-				"typeName": "binding"
-			},
-			{
-				"meta": {},
-				"id": "binding:TTJITH5TspMkFlzdHBO37",
-				"type": "discourse-relation",
-				"fromId": "shape:AJaehgiNg1onRTIt5A0cc",
-				"toId": "shape:W3zoqfBMdxBLZSqoygLBC",
-				"props": {
-					"isPrecise": false,
-					"isExact": false,
-					"normalizedAnchor": {
-						"x": 0.538181255089477,
-						"y": 0.1166687218528216
-					},
-					"snap": "none",
-					"terminal": "start"
-				},
-				"typeName": "binding"
+				"parentId": "page:page",
+				"index": "aG7PU",
+				"typeName": "shape"
 			},
 			{
 				"x": -193.9838216165424,
@@ -374,10 +349,8 @@ tldr-dg: true
 			{
 				"editingShapeId": null,
 				"croppingShapeId": null,
-				"selectedShapeIds": [
-					"shape:7_4RvO1rdC6ulwkQ_8j6m"
-				],
-				"hoveredShapeId": null,
+				"selectedShapeIds": [],
+				"hoveredShapeId": "shape:W3zoqfBMdxBLZSqoygLBC",
 				"erasingShapeIds": [],
 				"hintingShapeIds": [],
 				"focusedGroupId": null,
@@ -385,24 +358,6 @@ tldr-dg: true
 				"id": "instance_page_state:page:page",
 				"pageId": "page:page",
 				"typeName": "instance_page_state"
-			},
-			{
-				"meta": {},
-				"id": "binding:S-iSNWUDW-lYTJ80vboo9",
-				"type": "discourse-relation",
-				"fromId": "shape:hrp1Fg62hKCeTCS2TRI-t",
-				"toId": "shape:8C_GDXP_w0sHfOnLcFVNW",
-				"props": {
-					"isPrecise": true,
-					"isExact": false,
-					"normalizedAnchor": {
-						"x": 0.3406878255497224,
-						"y": 0.863766124975308
-					},
-					"snap": "none",
-					"terminal": "end"
-				},
-				"typeName": "binding"
 			},
 			{
 				"x": 85.77530851669337,
@@ -444,55 +399,17 @@ tldr-dg: true
 				"typeName": "shape"
 			},
 			{
-				"x": 555.3351222610229,
-				"y": 1239.8774163067412,
-				"rotation": 0,
-				"isLocked": false,
-				"opacity": 1,
 				"meta": {},
-				"id": "shape:6IsDdIckHMJrtGEGCEg6I",
+				"id": "binding:Tmv1zXU-iTzRMHfg-t3wx",
 				"type": "discourse-relation",
-				"props": {
-					"dash": "draw",
-					"size": "m",
-					"fill": "none",
-					"color": "black",
-					"labelColor": "black",
-					"bend": 0,
-					"start": {
-						"x": 0,
-						"y": 0
-					},
-					"end": {
-						"x": 4.206291122567109,
-						"y": -169.8421562403505
-					},
-					"arrowheadStart": "none",
-					"arrowheadEnd": "arrow",
-					"text": "produces",
-					"labelPosition": 0.5,
-					"font": "draw",
-					"scale": 1,
-					"kind": "arc",
-					"elbowMidPoint": 0,
-					"relationTypeId": "rel_I5Je_QVCxka3LZ3_I_Xbj"
-				},
-				"parentId": "page:page",
-				"index": "aL6aG",
-				"typeName": "shape"
-			},
-			{
-				"meta": {},
-				"id": "binding:lOzVbry4ZcCaYhTT-FLuc",
-				"type": "discourse-relation",
-				"fromId": "shape:6IsDdIckHMJrtGEGCEg6I",
-				"toId": "shape:dNIpVEkGV4WzQJGcDH5RQ",
+				"fromId": "shape:D2ge--MdfT1oDTlmF5DZ9",
+				"toId": "shape:W3zoqfBMdxBLZSqoygLBC",
 				"props": {
 					"isPrecise": true,
 					"isExact": false,
 					"normalizedAnchor": {
-						"x": 0.4267179289098078,
-						"y": 0.8798022279303018
+						"x": 0.6660934448242185,
+						"y": 0.3665338134765625
 					},
 					"snap": "none",
 					"terminal": "end"
@@ -539,22 +456,24 @@ tldr-dg: true
 				"typeName": "shape"
 			},
 			{
+				"x": 720.612309423544,
+				"y": 965.9579019558511,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
 				"meta": {},
-				"id": "binding:sBopBx896G7vifUvYAs3E",
-				"type": "discourse-relation",
-				"fromId": "shape:tiUb_2nN9v7v7PGUIDQSf",
-				"toId": "shape:1lh2cNVEjRFemeRvpAaHr",
+				"id": "shape:Vl3y9ogVwP_p0IJOlWDZU",
+				"type": "discourse-node",
 				"props": {
-					"isPrecise": false,
-					"isExact": false,
-					"normalizedAnchor": {
-						"x": 0.2047903294768065,
-						"y": 0.31632540074608184
-					},
-					"snap": "none",
-					"terminal": "start"
+					"w": 233.3604736328125,
+					"h": 100,
+					"src": "asset:obsidian.blockref.909da769-5909-480a-835e-003b32822d13",
+					"title": "EVD - Stationary phase E coli showed no difference in growth rate under hypomagnetic conditions",
+					"nodeTypeId": "node_MjGSUCfqC-QNUtTeqeaPM"
 				},
-				"typeName": "binding"
+				"parentId": "page:page",
+				"index": "aE9TY",
+				"typeName": "shape"
 			},
 			{
 				"x": 205.64298977761837,
@@ -574,62 +493,6 @@ tldr-dg: true
 				},
 				"parentId": "page:page",
 				"index": "a44GD",
-				"typeName": "shape"
-			},
-			{
-				"meta": {},
-				"id": "binding:bK2BIAA8UfKkiKivSg7Uc",
-				"type": "discourse-relation",
-				"fromId": "shape:6IsDdIckHMJrtGEGCEg6I",
-				"toId": "shape:1lh2cNVEjRFemeRvpAaHr",
-				"props": {
-					"isPrecise": false,
-					"isExact": false,
-					"normalizedAnchor": {
-						"x": 0.48466283172053354,
-						"y": 0.26565212431177543
-					},
-					"snap": "none",
-					"terminal": "start"
-				},
-				"typeName": "binding"
-			},
-			{
-				"x": 893.7462584618675,
-				"y": 993.1764801533587,
-				"rotation": 0,
-				"isLocked": false,
-				"opacity": 1,
-				"meta": {},
-				"id": "shape:yrdmCvEfG3ipRSASFuu37",
-				"type": "discourse-relation",
-				"props": {
-					"dash": "draw",
-					"size": "m",
-					"fill": "none",
-					"color": "red",
-					"labelColor": "black",
-					"bend": 0,
-					"start": {
-						"x": 0,
-						"y": 0
-					},
-					"end": {
-						"x": -295.42480924904714,
-						"y": -202.9089854415207
-					},
-					"arrowheadStart": "none",
-					"arrowheadEnd": "arrow",
-					"text": "opposes",
-					"labelPosition": 0.5,
-					"font": "draw",
-					"scale": 1,
-					"kind": "arc",
-					"elbowMidPoint": 0,
-					"relationTypeId": "relation_iqMprMfxPOrN6xDxHHZH1"
-				},
-				"parentId": "page:page",
-				"index": "aO8qe",
 				"typeName": "shape"
 			},
 			{
@@ -689,82 +552,6 @@ tldr-dg: true
 				"typeName": "shape"
 			},
 			{
-				"x": 499.3606218122775,
-				"y": 1244.9447439501719,
-				"rotation": 0,
-				"isLocked": false,
-				"opacity": 1,
-				"meta": {},
-				"id": "shape:tiUb_2nN9v7v7PGUIDQSf",
-				"type": "discourse-relation",
-				"props": {
-					"dash": "draw",
-					"size": "m",
-					"fill": "none",
-					"color": "black",
-					"labelColor": "black",
-					"bend": 0,
-					"start": {
-						"x": 0,
-						"y": 0
-					},
-					"end": {
-						"x": -176.6313967773599,
-						"y": -177.4246906313722
-					},
-					"arrowheadStart": "none",
-					"arrowheadEnd": "arrow",
-					"text": "produces",
-					"labelPosition": 0.5,
-					"font": "draw",
-					"scale": 1,
-					"kind": "arc",
-					"elbowMidPoint": 0,
-					"relationTypeId": "rel_I5Je_QVCxka3LZ3_I_Xbj"
-				},
-				"parentId": "page:page",
-				"index": "aM4Dt",
-				"typeName": "shape"
-			},
-			{
-				"x": 742.8623363750494,
-				"y": 971.3039385722483,
-				"rotation": 0,
-				"isLocked": false,
-				"opacity": 1,
-				"meta": {},
-				"id": "shape:8C_GDXP_w0sHfOnLcFVNW",
-				"type": "discourse-node",
-				"props": {
-					"w": 287.84222038739017,
-					"h": 100,
-					"src": "asset:obsidian.blockref.b1d37ff4-8e07-41c7-a451-2dc62f4e7dfb",
-					"title": "EVD - Stationary phase E coli showed no difference in growth rate under hypomagnetic conditions",
-					"nodeTypeId": "node_MjGSUCfqC-QNUtTeqeaPM"
-				},
-				"parentId": "page:page",
-				"index": "aN6wZ",
-				"typeName": "shape"
-			},
-			{
-				"meta": {},
-				"id": "binding:9vcHLur2D8-z-gtPZfogT",
-				"type": "discourse-relation",
-				"fromId": "shape:yrdmCvEfG3ipRSASFuu37",
-				"toId": "shape:W3zoqfBMdxBLZSqoygLBC",
-				"props": {
-					"isPrecise": true,
-					"isExact": false,
-					"normalizedAnchor": {
-						"x": 0.813472423983255,
-						"y": 0.9730063954919
-					},
-					"snap": "none",
-					"terminal": "end"
-				},
-				"typeName": "binding"
-			},
-			{
 				"meta": {},
 				"id": "page:page",
 				"name": "Page 1",
@@ -782,14 +569,13 @@ tldr-dg: true
 				"followingUserId": null,
 				"opacityForNextShape": 1,
 				"stylesForNextShape": {
-					"tldraw:size": "m",
-					"tldraw:color": "black",
-					"tldraw:geo": "rectangle"
+					"tldraw:size": "xl",
+					"tldraw:color": "green"
 				},
 				"brush": null,
 				"scribbles": [],
 				"cursor": {
-					"type": "move",
+					"type": "default",
 					"rotation": 0
 				},
 				"isFocusMode": false,
@@ -828,6 +614,44 @@ tldr-dg: true
 				"typeName": "instance"
 			},
 			{
+				"x": 927.0461174379233,
+				"y": 987.6506042480469,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:D2ge--MdfT1oDTlmF5DZ9",
+				"type": "discourse-relation",
+				"props": {
+					"dash": "draw",
+					"size": "s",
+					"fill": "none",
+					"color": "red",
+					"labelColor": "black",
+					"bend": 0,
+					"start": {
+						"x": -56.534882233129224,
+						"y": 14.960679055460446
+					},
+					"end": {
+						"x": -404.84527450150364,
+						"y": -279.98682925038656
+					},
+					"arrowheadStart": "none",
+					"arrowheadEnd": "arrow",
+					"text": "opposes",
+					"labelPosition": 0.5,
+					"font": "draw",
+					"scale": 1,
+					"kind": "arc",
+					"elbowMidPoint": 0,
+					"relationTypeId": "relation_iqMprMfxPOrN6xDxHHZH1"
+				},
+				"parentId": "page:page",
+				"index": "aFBfp",
+				"typeName": "shape"
+			},
+			{
 				"meta": {},
 				"id": "binding:-Dv8O2hSRWB-VIULmR7Ed",
 				"type": "discourse-relation",
@@ -844,63 +668,6 @@ tldr-dg: true
 					"terminal": "end"
 				},
 				"typeName": "binding"
-			},
-			{
-				"meta": {},
-				"id": "binding:thujBtQgHfBptyvpYYsmf",
-				"type": "discourse-relation",
-				"fromId": "shape:tiUb_2nN9v7v7PGUIDQSf",
-				"toId": "shape:g-W0F1kMmzOP2J-PBymzf",
-				"props": {
-					"isPrecise": true,
-					"isExact": false,
-					"normalizedAnchor": {
-						"x": 0.5458885965491703,
-						"y": 0.9268181132964537
-					},
-					"snap": "none",
-					"terminal": "end"
-				},
-				"typeName": "binding"
-			},
-			{
-				"x": 889.6690467470594,
-				"y": 906.7101179397864,
-				"rotation": 0,
-				"isLocked": false,
-				"opacity": 1,
-				"meta": {},
-				"id": "shape:cMgwv5y_j4-6nZPp2OHhP",
-				"type": "text",
-				"props": {
-					"color": "black",
-					"size": "m",
-					"w": 155.93125915527344,
-					"font": "draw",
-					"textAlign": "start",
-					"autoSize": true,
-					"scale": 1,
-					"richText": {
-						"type": "doc",
-						"content": [
-							{
-								"type": "paragraph",
-								"attrs": {
-									"dir": "auto"
-								},
-								"content": [
-									{
-										"type": "text",
-										"text": "OD too high?"
-									}
-								]
-							}
-						]
-					}
-				},
-				"parentId": "page:page",
-				"index": "aPBmS",
-				"typeName": "shape"
 			},
 			{
 				"x": -8.5667073587299,
@@ -942,64 +709,6 @@ tldr-dg: true
 				"typeName": "shape"
 			},
 			{
-				"x": 636.5110173168313,
-				"y": 1257.2810359096964,
-				"rotation": 0,
-				"isLocked": false,
-				"opacity": 1,
-				"meta": {},
-				"id": "shape:hrp1Fg62hKCeTCS2TRI-t",
-				"type": "discourse-relation",
-				"props": {
-					"dash": "draw",
-					"size": "m",
-					"fill": "none",
-					"color": "black",
-					"labelColor": "black",
-					"bend": 0,
-					"start": {
-						"x": 0,
-						"y": 0
-					},
-					"end": {
-						"x": 177.34469663115453,
-						"y": -184.16476568676626
-					},
-					"arrowheadStart": "none",
-					"arrowheadEnd": "arrow",
-					"text": "produces",
-					"labelPosition": 0.5,
-					"font": "draw",
-					"scale": 1,
-					"kind": "arc",
-					"elbowMidPoint": 0,
-					"relationTypeId": "rel_I5Je_QVCxka3LZ3_I_Xbj"
-				},
-				"parentId": "page:page",
-				"index": "aNlPE",
-				"typeName": "shape"
-			},
-			{
-				"x": 458.4025559169162,
-				"y": 1213.3122038755637,
-				"rotation": 0,
-				"isLocked": false,
-				"opacity": 1,
-				"meta": {},
-				"id": "shape:1lh2cNVEjRFemeRvpAaHr",
-				"type": "discourse-node",
-				"props": {
-					"w": 200,
-					"h": 100,
-					"src": "asset:obsidian.blockref.6eec40ff-07be-4884-9af0-5e546f153c29",
-					"title": "eln-ecoli-growth-curves",
-					"nodeTypeId": "node_QfFqFXzCwkvadJPSsGUxR"
-				},
-				"parentId": "page:page",
-				"index": "aJAsp",
-				"typeName": "shape"
-			},
-			{
 				"x": 84.4653971334576,
 				"y": 1157.123682410734,
 				"rotation": 0,
@@ -1037,6 +746,24 @@ tldr-dg: true
 				"parentId": "page:page",
 				"index": "a9Ari",
 				"typeName": "shape"
+			},
+			{
+				"meta": {},
+				"id": "binding:r634iBaVrPpmSUc-3sL0R",
+				"type": "discourse-relation",
+				"fromId": "shape:D2ge--MdfT1oDTlmF5DZ9",
+				"toId": "shape:Vl3y9ogVwP_p0IJOlWDZU",
+				"props": {
+					"isPrecise": true,
+					"isExact": false,
+					"normalizedAnchor": {
+						"x": 0.6423492524150111,
+						"y": 0.3665338134765625
+					},
+					"snap": "none",
+					"terminal": "start"
+				},
+				"typeName": "binding"
 			}
 		]
 	}

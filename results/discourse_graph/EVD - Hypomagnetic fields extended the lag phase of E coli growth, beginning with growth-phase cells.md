@@ -6,7 +6,6 @@ title: Hypomagnetic fields extended the lag phase of E.coli growth
 relation_9Ot5UCNE1XhndbPn3tf_G:
   - "[[CLM - bacterial growth rates change under hypomagnetic fields]]"
 rel_I5Je_QVCxka3LZ3_I_Xbj:
-  - "[[eln-ecoli-growth-curves.md]]"
   - "[[eln-ecoli-growth-curves]]"
 contributors:
 desciPID:

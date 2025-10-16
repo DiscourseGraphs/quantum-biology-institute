@@ -6,7 +6,6 @@ rel_I5Je_QVCxka3LZ3_I_Xbj:
   - "[[EVD - Stationary phase E coli showed no difference in growth rate under hypomagnetic conditions.md]]"
   - "[[EVD - Hypomagnetic fields extended the lag phase of E coli growth, beginning with growth-phase cells.md]]"
   - "[[EVD - Hypomagnetic fields extended the lag phase of E coli growth, beginning with stationary-phase cells.md]]"
-  - "[[EVD - Stationary phase E coli showed no difference in growth rate under hypomagnetic conditions]]"
 ---
 
 ## **2025 04 04**   
@@ -158,7 +157,7 @@ E.coli growth in M9 media is GLACIALLY SLOW... Should move to LB for now.
 | 07/01/2025 02:25 PM | 1.629 | 1.64  | 1.539 | 1.558 | 1.595 | 1.667 |
 | 07/01/2025 04:20 PM | 2.009 | 2.077 | 1.942 | 2.046 | 2.027 | 2.082 |
 ![Pasted image 20250919152355](attachments/Pasted%20image%2020250919152355.png)
-[EVD - Stationary phase E coli showed no difference in growth rate under hypomagnetic conditions](../../results/discourse_graph/EVD%20-%20Stationary%20phase%20E%20coli%20showed%20no%20difference%20in%20growth%20rate%20under%20hypomagnetic%20conditions.md)
+[[../../results/discourse_graph/EVD - Stationary phase E coli showed no difference in growth rate under hypomagnetic conditions|EVD - Stationary phase E coli showed no difference in growth rate under hypomagnetic conditions]]]
 Pretty sure I started at too high an OD 
 ## **2025/07/08**
 
@@ -177,7 +176,7 @@ Pretty sure I started at too high an OD
 |07/08/2025 02:55 PM|1.127|1.279|1.065|1.101|
 
 ![Pasted image 20250919151806](attachments/Pasted%20image%2020250919151806.png)
-#evd-candidate no gas-exchange lag phase diff result replicated, also robust to gas exchange
+#evd-candidate  no gas-exchange lag phase diff result replicated, also robust to gas exchange
 ## **2025/07/19**
 
 ### Second Transcriptomic RNA collection 
