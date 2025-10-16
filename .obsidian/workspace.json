@@ -6,7 +6,7 @@
       {
         "id": "3e88519e2f73e832",
         "type": "tabs",
-        "dimension": 39.989572471324294,
+        "dimension": 56.86813186813187,
         "children": [
           {
             "id": "c0a39c3eed2203ac",
@@ -22,20 +22,6 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "eln-ecoli-growth-curves"
-            }
-          },
-          {
-            "id": "157a8b417ea24493",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "tldraw-dg-preview",
-              "state": {
-                "file": "Discourse Canvas/results-sensemaking.md"
-              },
-              "pinned": true,
-              "icon": "lucide-ghost",
-              "title": "tldraw-dg-preview"
             }
           },
           {
@@ -58,17 +44,17 @@
             }
           },
           {
-            "id": "bfb7afe2b31846f9",
+            "id": "bf864885810d5329",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "tldraw-dg-preview",
               "state": {
-                "file": "results/discourse_graph/CLM - ALL life responds to magnetic fields.md",
-                "mode": "source",
-                "source": false
+                "file": "Discourse Canvas/results-sensemaking.md"
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "CLM - ALL life responds to magnetic fields"
+              "title": "results-sensemaking"
             }
           },
           {
@@ -84,28 +70,13 @@
               "icon": "lucide-file",
               "title": "CLM - bacterial growth rates change under hypomagnetic fields"
             }
-          },
-          {
-            "id": "677f0cba7a724bda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_meta-private/templates/t - evidence.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "t - evidence"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       },
       {
         "id": "62203e95a34126dd",
         "type": "tabs",
-        "dimension": 60.01042752867569,
+        "dimension": 43.13186813186813,
         "children": [
           {
             "id": "68c7a9a21122ee80",
@@ -129,6 +100,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "results/discourse_graph/EVD - Stationary phase E coli showed no difference in growth rate under hypomagnetic conditions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "EVD - Stationary phase E coli showed no difference in growth rate under hypomagnetic conditions"
+            }
+          },
+          {
+            "id": "54a4177fda764926",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "ecoli_growth_curves/1_eln_ecoli_growth_curves/eln-ecoli-growth-curves.md",
                 "mode": "source",
                 "source": false
@@ -137,7 +122,8 @@
               "title": "eln-ecoli-growth-curves"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,7 +155,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#evd-candidate",
+                "query": "tag:#evd-candidate gas exchange",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -211,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_meta-private/templates/t - evidence.md",
+                "file": "results/discourse_graph/EVD - Stationary phase E coli showed no difference in growth rate under hypomagnetic conditions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +207,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for t - evidence"
+              "title": "Backlinks for EVD - Stationary phase E coli showed no difference in growth rate under hypomagnetic conditions"
             }
           },
           {
@@ -244,13 +230,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_meta-private/templates/t - evidence.md",
+                "file": "results/discourse_graph/EVD - Stationary phase E coli showed no difference in growth rate under hypomagnetic conditions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of t - evidence"
+              "title": "Outline of EVD - Stationary phase E coli showed no difference in growth rate under hypomagnetic conditions"
             }
           },
           {
@@ -267,9 +253,19 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "eef57abde5923419",
+            "type": "leaf",
+            "state": {
+              "type": "discourse-context-view",
+              "state": {},
+              "icon": "telescope",
+              "title": "Discourse Context"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -289,23 +285,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "677f0cba7a724bda",
+  "active": "6f39c90491ef330f",
   "lastOpenFiles": [
-    "results/master-project-workbench.md",
-    "results/discourse_graph/EVD - Hypomagnetic fields extended the lag phase of E coli growth, beginning with growth-phase cells.md",
-    "results/discourse_graph/EVD - Hypomagnetic fields extended the lag phase of E coli growth, beginning with stationary-phase cells.md",
     "ecoli_growth_curves/1_eln_ecoli_growth_curves/eln-ecoli-growth-curves.md",
-    "results/discourse_graph/EVD - no gas-exchange lag phase diff result replicated, also robust to gas exchange.md",
-    "_meta-private/templates/t - evidence.md",
-    "results/discourse_graph/EVD - extended lag phase of ecoli growth in response to hypomagnetic fields was robust to variations in light settings.md",
     "results/discourse_graph/EVD - Stationary phase E coli showed no difference in growth rate under hypomagnetic conditions.md",
+    "results/discourse_graph/EVD - Hypomagnetic fields extended the lag phase of E coli growth, beginning with growth-phase cells.md",
+    "prj-multi-omics-microbial-magnetosensitivity.md",
+    "results/master-project-workbench.md",
+    "results/results-sensemaking.canvas",
+    "Discourse Canvas/results-sensemaking.md",
+    "results/discourse_graph/CLM - bacterial growth rates change under hypomagnetic fields.md",
+    "results/discourse_graph/CLM - ALL life responds to magnetic fields.md",
+    "_meta-private/templates/t - evidence.md",
+    "results/discourse_graph/EVD - Hypomagnetic fields extended the lag phase of E coli growth, beginning with stationary-phase cells.md",
+    "results/discourse_graph/EVD - no gas-exchange lag phase diff result replicated, also robust to gas exchange.md",
+    "results/discourse_graph/EVD - extended lag phase of ecoli growth in response to hypomagnetic fields was robust to variations in light settings.md",
     "results/discourse_graph/Unconfirmed 456776.crdownload",
     "_build/html/build/eln-ecoli-growth-cur-d9431cb11084715b3488c3c330e3e65c.md",
     "_build/site/public/eln-ecoli-growth-cur-d9431cb11084715b3488c3c330e3e65c.md",
     "EVD - extended lag phase of ecoli growth in response to hypomagnetic fields was robust to variations in light settings.md",
     "[2025-10-15](2025-10-15).md",
-    "results/results-sensemaking.canvas",
-    "Discourse Canvas/results-sensemaking.md",
     "attachments/84a6216e-ef72-4c31-9219-ab4e37e66f18-CleanShot-2025-10-15-at-22-49-08-png.png",
     "attachments/3a12dee8-a164-4a80-8d92-81f6bc337f45-CleanShot-2025-10-15-at-22-49-08-png.png",
     "attachments/3633463b-b6b5-4223-881d-09eab702636c-CleanShot-2025-10-15-at-22-49-08-png.png",
@@ -334,9 +333,6 @@
     "_build/html/thebe-core.min.js",
     "_build/html/thebe-core.css",
     "_build/site/public/EVD - Stationary pha-b511bf7b5d6be09558035174299e2c35.md",
-    "_build/site/public/EVD - Hypomagnetic f-1cac82a13ec0733cbb076feb3aa09fd0.md",
-    "_build/site/public/EVD - Hypomagnetic f-9e1282c60b72436ca0358b53a199f2df.md",
-    "_build/site/public/CLM - bacterial grow-9c9ec581814f0818e26e75a9ce8307ef.md",
-    "_build/site/public/CLM - ALL life respo-ae48e7ddd3c3b1c7b14b5dfc8b6b0a94.md"
+    "_build/site/public/EVD - Hypomagnetic f-1cac82a13ec0733cbb076feb3aa09fd0.md"
   ]
 }

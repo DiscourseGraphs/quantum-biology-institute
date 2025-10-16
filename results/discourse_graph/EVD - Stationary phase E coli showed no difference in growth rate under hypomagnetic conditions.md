@@ -13,7 +13,7 @@ desciPID:
 ---
 # Description and Key Plot(s)
 
-Observed in [eln-ecoli-growth-curves](../../ecoli_growth_curves/1_eln_ecoli_growth_curves/eln-ecoli-growth-curves.md) 7/1
+Observed in [eln-ecoli-growth-curves](ecoli_growth_curves/1_eln_ecoli_growth_curves/eln-ecoli-growth-curves.md#2025%2007%2001) 7/1
 
 ![[Pasted image 20250919152355.png]]
 # Methods Summary
