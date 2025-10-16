@@ -28,7 +28,7 @@ seems like we have a fairly robust result across multiple replicates: [EVD - Hyp
 
 seems like we may also have a similar, but less stable observation for stationary phase cells:
 - we have an observation of a more pronounced lag phase effect: [EVD - Hypomagnetic fields extended the lag phase of E coli growth, beginning with stationary-phase cells](discourse_graph/EVD%20-%20Hypomagnetic%20fields%20extended%20the%20lag%20phase%20of%20E%20coli%20growth,%20beginning%20with%20stationary-phase%20cells.md)
-- but in these replicates we have a "negative" result that [EVD - Stationary phase E coli showed no difference in growth rate under hypomagnetic conditions](discourse_graph/EVD%20-%20Stationary%20phase%20E%20coli%20showed%20no%20difference%20in%20growth%20rate%20under%20hypomagnetic%20conditions.md) (could be too high OD though)
+- but in these replicates we have a "negative" (no diff in growth rate) result in one run (could be too high OD though) [EVD - Stationary phase E coli showed no difference in growth rate under hypomagnetic conditions](EVD%20-%20Stationary%20phase%20E%20coli%20showed%20no%20difference%20in%20growth%20rate%20under%20hypomagnetic%20conditions)
 
 we've also tested for variations:
 - light/dark

@@ -157,8 +157,8 @@ E.coli growth in M9 media is GLACIALLY SLOW... Should move to LB for now.
 | 07/01/2025 02:25 PM | 1.629 | 1.64  | 1.539 | 1.558 | 1.595 | 1.667 |
 | 07/01/2025 04:20 PM | 2.009 | 2.077 | 1.942 | 2.046 | 2.027 | 2.082 |
 ![Pasted image 20250919152355](attachments/Pasted%20image%2020250919152355.png)
-[[../../results/discourse_graph/EVD - Stationary phase E coli showed no difference in growth rate under hypomagnetic conditions|EVD - Stationary phase E coli showed no difference in growth rate under hypomagnetic conditions]]
-Pretty sure I started at too high an OD 
+[[../../results/discourse_graph/EVD - no lag phase difference observed in growth curve for stationary-phase Ecoli cells]]
+pretty sure that the OD was too high
 ## **2025/07/08**
 
 ![20250708_150706](attachments/20250708_150706.jpg)

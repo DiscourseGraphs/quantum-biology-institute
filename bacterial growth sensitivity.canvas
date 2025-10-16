@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"4135496f80e40d84","x":-360,"y":-420,"width":400,"height":880,"color":"1","type":"file","file":"results/discourse_graph/EVD - Hypomagnetic fields extended the lag phase of E coli growth, beginning with growth-phase cells.md"},
+		{"id":"6f17485ff59771fa","x":80,"y":-420,"width":400,"height":1060,"color":"1","type":"file","file":"results/discourse_graph/EVD - Hypomagnetic fields extended the lag phase of E coli growth, beginning with stationary-phase cells.md"},
+		{"id":"29fbc14d0c9886fc","x":80,"y":-1200,"width":400,"height":440,"color":"4","type":"file","file":"results/discourse_graph/CLM - bacterial growth rates change under hypomagnetic fields.md"},
+		{"id":"d8a6ff9aca06f0f1","x":480,"y":-1840,"width":400,"height":400,"color":"4","type":"file","file":"results/discourse_graph/CLM - ALL life responds to magnetic fields.md"},
+		{"id":"0a5cf6eb09024a80","x":960,"y":-420,"width":400,"height":1032,"color":"1","type":"file","file":"results/discourse_graph/EVD - no lag phase difference observed in growth curve for stationary-phase Ecoli cells.md"}
+	],
+	"edges":[
+		{"id":"a7ce6d4ee74964f9","fromNode":"4135496f80e40d84","fromSide":"top","toNode":"29fbc14d0c9886fc","toSide":"bottom","color":"4","label":"support"},
+		{"id":"e2e3f08397287173","fromNode":"6f17485ff59771fa","fromSide":"top","toNode":"29fbc14d0c9886fc","toSide":"bottom","color":"4","label":"support"},
+		{"id":"8f668679ab0dcdcf","fromNode":"0a5cf6eb09024a80","fromSide":"top","toNode":"29fbc14d0c9886fc","toSide":"bottom","color":"1","label":"oppose"},
+		{"id":"582f24233d6ea795","fromNode":"29fbc14d0c9886fc","fromSide":"top","toNode":"d8a6ff9aca06f0f1","toSide":"bottom","label":"supports"}
+	]
+}

@@ -159,6 +159,9 @@
 .max-h-\[6em\] {
   max-height: 6em;
 }
+.min-h-\[1rem\] {
+  min-height: 1rem;
+}
 .min-h-\[2\.5em\] {
   min-height: 2.5em;
 }
@@ -218,6 +221,9 @@
 }
 .\!justify-start {
   justify-content: flex-start !important;
+}
+.justify-start {
+  justify-content: flex-start;
 }
 .justify-end {
   justify-content: flex-end;
@@ -325,6 +331,10 @@
 .bg-white {
   --tw-bg-opacity: 1;
   background-color: rgb(255 255 255 / var(--tw-bg-opacity, 1));
+}
+.object-cover {
+  -o-object-fit: cover;
+     object-fit: cover;
 }
 .p-0 {
   padding: 0px;
@@ -516,6 +526,23 @@
   font-size: 1.125rem;
   line-height: 1.75rem;
   font-weight: 700;
+}
+
+.dg-create-node-button {
+  background: var(--interactive-accent);
+  color: var(--text-on-accent);
+  border: none;
+  border-radius: 4px;
+  padding: 6px 12px;
+  font-size: 11px;
+  cursor: pointer;
+  font-weight: 500;
+  white-space: nowrap;
+  transition: background-color 0.2s ease;
+}
+
+.dg-create-node-button:hover {
+  background: var(--interactive-accent-hover);
 }
 
 /* Neutralize host button styling inside our editor */

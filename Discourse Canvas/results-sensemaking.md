@@ -24,7 +24,7 @@ tldr-dg: true
 ```json !!!_START_OF_TLDRAW_DG_DATA__DO_NOT_CHANGE_THIS_PHRASE_!!!
 {
 	"meta": {
-		"uuid": "e3b74dca-d604-4037-9bd9-223c9a83f819",
+		"uuid": "ce09f095-7001-4a90-9fcb-5b144d6d9c38",
 		"plugin-version": "0.1.2-alpha-tldraw",
 		"tldraw-version": "3.14.1"
 	},
@@ -67,45 +67,45 @@ tldr-dg: true
 		},
 		"records": [
 			{
-				"id": "pointer:pointer",
-				"typeName": "pointer",
-				"x": 636.2991403409626,
-				"y": 1154.6639938784579,
-				"lastActivityTimestamp": 1760637180014,
-				"meta": {}
-			},
-			{
-				"x": 663.9585337491513,
-				"y": 897.4102796587683,
+				"x": 388.9821539715759,
+				"y": 671.0103936500041,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
 				"meta": {},
-				"id": "shape:Ro4n1qsTFpqY2Ywy6xEk5",
+				"id": "shape:W3zoqfBMdxBLZSqoygLBC",
 				"type": "discourse-node",
 				"props": {
-					"w": 204.2750333435871,
+					"w": 200,
 					"h": 100,
-					"src": "asset:obsidian.blockref.d3856413-388f-4e94-a9a2-5559df1aaeb9",
-					"title": "EVD - Stationary phase E coli showed no difference in growth rate under hypomagnetic conditions",
-					"nodeTypeId": "node_MjGSUCfqC-QNUtTeqeaPM"
+					"src": "asset:obsidian.blockref.0ccc8383-2aa3-40fd-a5b3-5d9190520b52",
+					"title": "CLM - bacterial growth rates change under hypomagnetic fields",
+					"nodeTypeId": "node_9oGVtVtNpA6tqvQQQkeoX"
 				},
 				"parentId": "page:page",
-				"index": "a5BsW",
+				"index": "a22hq",
 				"typeName": "shape"
 			},
 			{
+				"id": "pointer:pointer",
+				"typeName": "pointer",
+				"x": -1602.7225269680396,
+				"y": 5268.743596186302,
+				"lastActivityTimestamp": 1760582966035,
+				"meta": {}
+			},
+			{
 				"meta": {},
-				"id": "binding:C6AyXDtUyu1U33xQiSo1u",
+				"id": "binding:O4C6E4Leom0iollWDZYUh",
 				"type": "discourse-relation",
-				"fromId": "shape:kvXC_ddunODdo2GceTYYl",
-				"toId": "shape:qteg1KC8dZUnDbXi3jRSL",
+				"fromId": "shape:Lnp6vAnDDYjfW4h4tWSCt",
+				"toId": "shape:W3zoqfBMdxBLZSqoygLBC",
 				"props": {
 					"isPrecise": false,
 					"isExact": false,
 					"normalizedAnchor": {
-						"x": 0.5011091038890675,
-						"y": 0.565278821472981
+						"x": 0.5902592521152249,
+						"y": 0.8483649966054281
 					},
 					"snap": "none",
 					"terminal": "end"
@@ -114,16 +114,16 @@ tldr-dg: true
 			},
 			{
 				"meta": {},
-				"id": "binding:Bg3sdBid-SUk0Qck7qWJH",
+				"id": "binding:GWQGR6BLmFvlEHkP8Dzxn",
 				"type": "discourse-relation",
-				"fromId": "shape:kvXC_ddunODdo2GceTYYl",
-				"toId": "shape:mDNJYVJuearlK4y4pZPiE",
+				"fromId": "shape:mcQa9NEDAJEe5MtAeP1l_",
+				"toId": "shape:g-W0F1kMmzOP2J-PBymzf",
 				"props": {
-					"isPrecise": false,
+					"isPrecise": true,
 					"isExact": false,
 					"normalizedAnchor": {
-						"x": 0.822718461107183,
-						"y": 0.12830220470371045
+						"x": 0.4549566650390625,
+						"y": 0.557490234375
 					},
 					"snap": "none",
 					"terminal": "start"
@@ -131,56 +131,123 @@ tldr-dg: true
 				"typeName": "binding"
 			},
 			{
-				"x": 772.0045148068273,
-				"y": 911.7214628549785,
+				"x": -200.76363202275138,
+				"y": 3489.092360072586,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
 				"meta": {},
-				"id": "shape:S27sUA_Kq8nbwLKF_0JIK",
+				"id": "shape:8cwE4oU7hvQd-i-MsDHiB",
+				"type": "image",
+				"props": {
+					"w": 427,
+					"h": 329,
+					"assetId": "asset:-1795513898",
+					"playing": true,
+					"url": "",
+					"crop": null,
+					"flipX": false,
+					"flipY": false,
+					"altText": ""
+				},
+				"parentId": "page:page",
+				"index": "aI8Ee",
+				"typeName": "shape"
+			},
+			{
+				"x": 474.75754538093065,
+				"y": 969.0669423490979,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:dNIpVEkGV4WzQJGcDH5RQ",
+				"type": "discourse-node",
+				"props": {
+					"w": 200,
+					"h": 100,
+					"src": "asset:obsidian.blockref.4162befb-759b-4536-8258-6d5bc4695b14",
+					"title": "EVD - Hypomagnetic fields extended the lag phase of E coli growth, beginning with stationary-phase cells",
+					"nodeTypeId": "node_MjGSUCfqC-QNUtTeqeaPM"
+				},
+				"parentId": "page:page",
+				"index": "aA7BO",
+				"typeName": "shape"
+			},
+			{
+				"id": "asset:-1795513898",
+				"type": "image",
+				"typeName": "asset",
+				"props": {
+					"name": "CleanShot 2025-10-15 at 22.49.08.png",
+					"src": "asset:obsidian.blockref.3a12dee8-a164-4a80-8d92-81f6bc337f45",
+					"w": 427,
+					"h": 329,
+					"fileSize": 38342,
+					"mimeType": "image/png",
+					"isAnimated": false
+				},
+				"meta": {}
+			},
+			{
+				"x": 541.3988115235271,
+				"y": 1026.5443420410156,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:Lnp6vAnDDYjfW4h4tWSCt",
 				"type": "discourse-relation",
 				"props": {
 					"dash": "draw",
 					"size": "m",
 					"fill": "none",
-					"color": "red",
+					"color": "green",
 					"labelColor": "black",
-					"bend": 0,
+					"bend": 15.38803423141719,
 					"start": {
 						"x": 0,
 						"y": 0
 					},
 					"end": {
-						"x": -228.8186082656615,
-						"y": -145.50333864271147
+						"x": -34.91937255859375,
+						"y": -255.20037841796875
 					},
 					"arrowheadStart": "none",
 					"arrowheadEnd": "arrow",
-					"text": "opposes",
+					"text": "supports",
 					"labelPosition": 0.5,
 					"font": "draw",
 					"scale": 1,
 					"kind": "arc",
 					"elbowMidPoint": 0,
-					"relationTypeId": "relation_iqMprMfxPOrN6xDxHHZH1"
+					"relationTypeId": "relation_9Ot5UCNE1XhndbPn3tf_G"
 				},
 				"parentId": "page:page",
-				"index": "a6ACf",
+				"index": "aB3wM",
 				"typeName": "shape"
 			},
 			{
-				"x": -76.81041145712709,
-				"y": 1122.0726289041495,
+				"x": 1602.7225269680396,
+				"y": -5268.743596186302,
+				"z": 0.25,
+				"meta": {},
+				"id": "camera:page:page",
+				"typeName": "camera"
+			},
+			{
+				"x": 890.5986687074545,
+				"y": 918.7977132797241,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
 				"meta": {},
-				"id": "shape:0DjEMahz1pj8JbvHIqgoZ",
+				"id": "shape:ut-llGmhdHRRmWCJvHzUu",
 				"type": "text",
 				"props": {
 					"color": "black",
-					"size": "m",
-					"w": 186.91751098632812,
+					"size": "s",
+					"w": 274.3902282714844,
 					"font": "draw",
 					"textAlign": "start",
 					"autoSize": true,
@@ -196,7 +263,7 @@ tldr-dg: true
 								"content": [
 									{
 										"type": "text",
-										"text": "Gas exchange?"
+										"text": "could be too high OD though?"
 									}
 								]
 							}
@@ -204,63 +271,108 @@ tldr-dg: true
 					}
 				},
 				"parentId": "page:page",
-				"index": "aC2P6",
+				"index": "aG7PU",
 				"typeName": "shape"
 			},
 			{
-				"meta": {},
-				"id": "binding:8ABMZwKFHzvTYQFVQ7Cbc",
-				"type": "discourse-relation",
-				"fromId": "shape:GG96w-imlUCrj8PG1bBEz",
-				"toId": "shape:_d9-PY-b6N4FYZhRpWT56",
-				"props": {
-					"isPrecise": false,
-					"isExact": false,
-					"normalizedAnchor": {
-						"x": 0.9894821860497485,
-						"y": 0.4300512633786661
-					},
-					"snap": "none",
-					"terminal": "start"
-				},
-				"typeName": "binding"
-			},
-			{
-				"x": 318.6842956608478,
-				"y": -59.800361938146125,
-				"z": 0.8112569064051449,
-				"meta": {},
-				"id": "camera:page:page",
-				"typeName": "camera"
-			},
-			{
-				"x": -69.7521801077796,
-				"y": 900.1328671379039,
+				"x": -193.9838216165424,
+				"y": 1157.055811316984,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
 				"meta": {},
-				"id": "shape:_d9-PY-b6N4FYZhRpWT56",
-				"type": "discourse-node",
+				"id": "shape:HGbWpK5FRs_jArED8rzKH",
+				"type": "text",
 				"props": {
-					"w": 219.28950317985482,
-					"h": 100,
-					"src": "asset:obsidian.blockref.c3f6ae1f-390d-4ab2-84f1-3fcbcffabceb",
-					"title": "EVD - Hypomagnetic fields extended the lag phase of E coli growth, beginning with growth-phase cells",
-					"nodeTypeId": "node_MjGSUCfqC-QNUtTeqeaPM"
+					"color": "black",
+					"size": "m",
+					"w": 193.6449737548828,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 1,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "Light variation?"
+									}
+								]
+							}
+						]
+					}
 				},
 				"parentId": "page:page",
-				"index": "a32JK",
+				"index": "a83EV",
 				"typeName": "shape"
 			},
 			{
-				"x": -350.0887950367403,
-				"y": 1171.8004937798783,
+				"x": -1605.7225269680396,
+				"y": 5300.743596186302,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
 				"meta": {},
-				"id": "shape:iKYGSWuEpIqfIl9IrXAXd",
+				"id": "shape:zxR4j4IE6egKxWV1vom8z",
+				"type": "text",
+				"props": {
+					"color": "green",
+					"size": "xl",
+					"w": 10,
+					"font": "draw",
+					"textAlign": "middle",
+					"autoSize": true,
+					"scale": 1,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"content": [
+									{
+										"type": "text",
+										"text": "Also have some EVD of robustness to"
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "aL4Hr",
+				"typeName": "shape"
+			},
+			{
+				"editingShapeId": null,
+				"croppingShapeId": null,
+				"selectedShapeIds": [
+					"shape:f8TlE7LHYuUr8bvzjN0W8",
+					"shape:jMnbMJYlOK_kzoRDXeFef"
+				],
+				"hoveredShapeId": null,
+				"erasingShapeIds": [],
+				"hintingShapeIds": [],
+				"focusedGroupId": null,
+				"meta": {},
+				"id": "instance_page_state:page:page",
+				"pageId": "page:page",
+				"typeName": "instance_page_state"
+			},
+			{
+				"x": -1608.542753108122,
+				"y": 5286.4098854926215,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:jMnbMJYlOK_kzoRDXeFef",
 				"type": "text",
 				"props": {
 					"color": "black",
@@ -289,42 +401,22 @@ tldr-dg: true
 					}
 				},
 				"parentId": "page:page",
-				"index": "aA7lT",
+				"index": "aK7S1",
 				"typeName": "shape"
 			},
 			{
-				"x": 332.52438411552316,
-				"y": 673.2259495010125,
+				"x": 85.77530851669337,
+				"y": 1217.8304189753703,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
 				"meta": {},
-				"id": "shape:qteg1KC8dZUnDbXi3jRSL",
-				"type": "discourse-node",
-				"props": {
-					"w": 200,
-					"h": 100,
-					"src": "asset:obsidian.blockref.95643173-de3a-4645-a455-c776546577dc",
-					"title": "CLM - bacterial growth rates change under hypomagnetic fields",
-					"nodeTypeId": "node_9oGVtVtNpA6tqvQQQkeoX"
-				},
-				"parentId": "page:page",
-				"index": "a21cZ",
-				"typeName": "shape"
-			},
-			{
-				"x": 729.931685080187,
-				"y": 842.6244259020397,
-				"rotation": 0,
-				"isLocked": false,
-				"opacity": 1,
-				"meta": {},
-				"id": "shape:jKLYr4JsMVsMELHU9BEBy",
+				"id": "shape:Yr0SZBvM0678Av_KKSXx0",
 				"type": "text",
 				"props": {
 					"color": "black",
-					"size": "m",
-					"w": 370.51751708984375,
+					"size": "s",
+					"w": 69.86515808105469,
 					"font": "draw",
 					"textAlign": "start",
 					"autoSize": true,
@@ -340,7 +432,7 @@ tldr-dg: true
 								"content": [
 									{
 										"type": "text",
-										"text": "OD might have been too high?"
+										"text": "see 7/8"
 									}
 								]
 							}
@@ -348,36 +440,57 @@ tldr-dg: true
 					}
 				},
 				"parentId": "page:page",
-				"index": "a8BZD",
+				"index": "aD3Ky",
 				"typeName": "shape"
 			},
 			{
-				"editingShapeId": null,
-				"croppingShapeId": null,
-				"selectedShapeIds": [
-					"shape:APur18Cu22rqZE8Vt9LlC"
-				],
-				"hoveredShapeId": null,
-				"erasingShapeIds": [],
-				"hintingShapeIds": [],
-				"focusedGroupId": null,
+				"x": -1605.7225269680396,
+				"y": 5308.743596186302,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
 				"meta": {},
-				"id": "instance_page_state:page:page",
-				"pageId": "page:page",
-				"typeName": "instance_page_state"
+				"id": "shape:XsW2WM8Lxzcikm36WWfF2",
+				"type": "text",
+				"props": {
+					"color": "green",
+					"size": "xl",
+					"w": 10,
+					"font": "draw",
+					"textAlign": "middle",
+					"autoSize": true,
+					"scale": 1,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"content": [
+									{
+										"type": "text",
+										"text": "remember: check if OD was too high"
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "aM7xX",
+				"typeName": "shape"
 			},
 			{
 				"meta": {},
-				"id": "binding:MF5s4UBAqOqykX89H0L0y",
+				"id": "binding:Tmv1zXU-iTzRMHfg-t3wx",
 				"type": "discourse-relation",
-				"fromId": "shape:S27sUA_Kq8nbwLKF_0JIK",
-				"toId": "shape:qteg1KC8dZUnDbXi3jRSL",
+				"fromId": "shape:D2ge--MdfT1oDTlmF5DZ9",
+				"toId": "shape:W3zoqfBMdxBLZSqoygLBC",
 				"props": {
-					"isPrecise": false,
+					"isPrecise": true,
 					"isExact": false,
 					"normalizedAnchor": {
-						"x": 0.7619540248772211,
-						"y": 0.6176282951538906
+						"x": 0.6660934448242185,
+						"y": 0.3665338134765625
 					},
 					"snap": "none",
 					"terminal": "end"
@@ -385,69 +498,92 @@ tldr-dg: true
 				"typeName": "binding"
 			},
 			{
-				"x": 247.6208035500007,
-				"y": 900.8535294637605,
+				"x": -213.07576570205663,
+				"y": 1220.7018789363078,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
 				"meta": {},
-				"id": "shape:mDNJYVJuearlK4y4pZPiE",
+				"id": "shape:X4wqmoXJhOOXy3A2ELzdA",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "s",
+					"w": 168.47987365722656,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 1,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "see 8/29, 9/5, 9/11"
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "aCCN1",
+				"typeName": "shape"
+			},
+			{
+				"x": 720.612309423544,
+				"y": 965.9579019558511,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:Vl3y9ogVwP_p0IJOlWDZU",
 				"type": "discourse-node",
 				"props": {
-					"w": 221.96584848568693,
+					"w": 233.3604736328125,
 					"h": 100,
-					"src": "asset:obsidian.blockref.eb62fc0b-7024-4284-9c5d-26de815c7fc9",
-					"title": "EVD - Hypomagnetic fields extended the lag phase of E coli growth, beginning with stationary-phase cells",
+					"src": "asset:obsidian.blockref.909da769-5909-480a-835e-003b32822d13",
+					"title": "EVD - Stationary phase E coli showed no difference in growth rate under hypomagnetic conditions",
 					"nodeTypeId": "node_MjGSUCfqC-QNUtTeqeaPM"
 				},
 				"parentId": "page:page",
-				"index": "a465y",
+				"index": "aE9TY",
 				"typeName": "shape"
 			},
 			{
-				"meta": {},
-				"id": "binding:DEIKj2w1mOUa0Fh2k2kPh",
-				"type": "discourse-relation",
-				"fromId": "shape:GG96w-imlUCrj8PG1bBEz",
-				"toId": "shape:qteg1KC8dZUnDbXi3jRSL",
-				"props": {
-					"isPrecise": false,
-					"isExact": false,
-					"normalizedAnchor": {
-						"x": 0.48294278849407135,
-						"y": 0.49420854824043886
-					},
-					"snap": "none",
-					"terminal": "end"
-				},
-				"typeName": "binding"
-			},
-			{
-				"meta": {},
-				"id": "binding:hUVVINFNpCO6OfZq6YUzV",
-				"type": "discourse-relation",
-				"fromId": "shape:S27sUA_Kq8nbwLKF_0JIK",
-				"toId": "shape:Ro4n1qsTFpqY2Ywy6xEk5",
-				"props": {
-					"isPrecise": false,
-					"isExact": false,
-					"normalizedAnchor": {
-						"x": 0.5289240652133168,
-						"y": 0.1431118319621021
-					},
-					"snap": "none",
-					"terminal": "start"
-				},
-				"typeName": "binding"
-			},
-			{
-				"x": -350.4483427565751,
-				"y": 1122.467915167238,
+				"x": 205.64298977761837,
+				"y": 967.4831980431966,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
 				"meta": {},
-				"id": "shape:B9UStd0GnKBAfV5eV9Ye7",
+				"id": "shape:g-W0F1kMmzOP2J-PBymzf",
+				"type": "discourse-node",
+				"props": {
+					"w": 200,
+					"h": 100,
+					"src": "asset:obsidian.blockref.dd11f413-42eb-468b-a850-09a4cdba51d3",
+					"title": "EVD - Hypomagnetic fields extended the lag phase of E coli growth, beginning with growth-phase cells",
+					"nodeTypeId": "node_MjGSUCfqC-QNUtTeqeaPM"
+				},
+				"parentId": "page:page",
+				"index": "a44GD",
+				"typeName": "shape"
+			},
+			{
+				"x": -1608.9023008279569,
+				"y": 5237.077306879982,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:f8TlE7LHYuUr8bvzjN0W8",
 				"type": "text",
 				"props": {
 					"color": "black",
@@ -476,37 +612,35 @@ tldr-dg: true
 					}
 				},
 				"parentId": "page:page",
-				"index": "a92EJ",
+				"index": "aJ5Sa",
 				"typeName": "shape"
 			},
 			{
-				"x": 238.70824650492983,
-				"y": 1106.0274518110364,
-				"rotation": 0,
-				"isLocked": false,
-				"opacity": 1,
 				"meta": {},
-				"id": "shape:pRauLn4yuJZwOLFd5aYER",
-				"type": "discourse-node",
+				"id": "binding:NBlTl_nKp6MmXcYjdZ7Mf",
+				"type": "discourse-relation",
+				"fromId": "shape:Lnp6vAnDDYjfW4h4tWSCt",
+				"toId": "shape:dNIpVEkGV4WzQJGcDH5RQ",
 				"props": {
-					"w": 200,
-					"h": 100,
-					"src": "asset:obsidian.blockref.ef80971d-d80a-4935-87f3-7eb60b38b146",
-					"title": "eln-ecoli-growth-curves",
-					"nodeTypeId": "node_QfFqFXzCwkvadJPSsGUxR"
+					"isPrecise": false,
+					"isExact": false,
+					"normalizedAnchor": {
+						"x": 0.33320633071298233,
+						"y": 0.5747739969191775
+					},
+					"snap": "none",
+					"terminal": "start"
 				},
-				"parentId": "page:page",
-				"index": "a79Xf",
-				"typeName": "shape"
+				"typeName": "binding"
 			},
 			{
-				"x": 430.2362048344952,
-				"y": 913.6837499341316,
+				"x": 372.99700927734375,
+				"y": 897.0956115722656,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
 				"meta": {},
-				"id": "shape:kvXC_ddunODdo2GceTYYl",
+				"id": "shape:mcQa9NEDAJEe5MtAeP1l_",
 				"type": "discourse-relation",
 				"props": {
 					"dash": "draw",
@@ -514,14 +648,14 @@ tldr-dg: true
 					"fill": "none",
 					"color": "green",
 					"labelColor": "black",
-					"bend": 0,
+					"bend": 52.13305124420341,
 					"start": {
-						"x": 0,
-						"y": 0
+						"x": -74.77906832785038,
+						"y": 83.76136576780596
 					},
 					"end": {
-						"x": 0.034683473026916545,
-						"y": -137.71686133050594
+						"x": 91.88592529296875,
+						"y": -132.3818359375
 					},
 					"arrowheadStart": "none",
 					"arrowheadEnd": "arrow",
@@ -534,122 +668,7 @@ tldr-dg: true
 					"relationTypeId": "relation_9Ot5UCNE1XhndbPn3tf_G"
 				},
 				"parentId": "page:page",
-				"index": "a4gIU",
-				"typeName": "shape"
-			},
-			{
-				"x": 101.39301425889317,
-				"y": 1035.5687456100163,
-				"rotation": 0,
-				"isLocked": false,
-				"opacity": 1,
-				"meta": {},
-				"id": "shape:APur18Cu22rqZE8Vt9LlC",
-				"type": "text",
-				"props": {
-					"color": "black",
-					"size": "s",
-					"w": 302.32000732421875,
-					"font": "draw",
-					"textAlign": "start",
-					"autoSize": true,
-					"scale": 1.8568680978429792,
-					"richText": {
-						"type": "doc",
-						"content": [
-							{
-								"type": "paragraph",
-								"attrs": {
-									"dir": "auto"
-								},
-								"content": [
-									{
-										"type": "text",
-										"text": "E coli growth curve experiments"
-									}
-								]
-							}
-						]
-					}
-				},
-				"parentId": "page:page",
-				"index": "aE20b",
-				"typeName": "shape"
-			},
-			{
-				"x": 427.5112575252457,
-				"y": 686.9522441093405,
-				"rotation": 0,
-				"isLocked": false,
-				"opacity": 1,
-				"meta": {},
-				"id": "shape:MLtExn2TTfBykIcCQKjdu",
-				"type": "discourse-relation",
-				"props": {
-					"dash": "draw",
-					"size": "m",
-					"fill": "none",
-					"color": "green",
-					"labelColor": "black",
-					"bend": 0,
-					"start": {
-						"x": 0,
-						"y": 0
-					},
-					"end": {
-						"x": 4.118605995478788,
-						"y": -156.3407578165003
-					},
-					"arrowheadStart": "none",
-					"arrowheadEnd": "arrow",
-					"text": "supports",
-					"labelPosition": 0.5,
-					"font": "draw",
-					"scale": 1,
-					"kind": "arc",
-					"elbowMidPoint": 0,
-					"relationTypeId": "relation_9Ot5UCNE1XhndbPn3tf_G"
-				},
-				"parentId": "page:page",
-				"index": "a2ZfB",
-				"typeName": "shape"
-			},
-			{
-				"x": 147.23087687638642,
-				"y": 943.1379934757705,
-				"rotation": 0,
-				"isLocked": false,
-				"opacity": 1,
-				"meta": {},
-				"id": "shape:GG96w-imlUCrj8PG1bBEz",
-				"type": "discourse-relation",
-				"props": {
-					"dash": "draw",
-					"size": "m",
-					"fill": "none",
-					"color": "green",
-					"labelColor": "black",
-					"bend": 0,
-					"start": {
-						"x": 0,
-						"y": 0
-					},
-					"end": {
-						"x": 202.71323837126047,
-						"y": -167.5593942523882
-					},
-					"arrowheadStart": "none",
-					"arrowheadEnd": "arrow",
-					"text": "supports",
-					"labelPosition": 0.5,
-					"font": "draw",
-					"scale": 1,
-					"kind": "arc",
-					"elbowMidPoint": 0,
-					"relationTypeId": "relation_9Ot5UCNE1XhndbPn3tf_G"
-				},
-				"parentId": "page:page",
-				"index": "a3f1k",
+				"index": "a57Tr",
 				"typeName": "shape"
 			},
 			{
@@ -670,8 +689,8 @@ tldr-dg: true
 				"followingUserId": null,
 				"opacityForNextShape": 1,
 				"stylesForNextShape": {
-					"tldraw:color": "black",
-					"tldraw:size": "s"
+					"tldraw:size": "xl",
+					"tldraw:color": "green"
 				},
 				"brush": null,
 				"scribbles": [],
@@ -684,16 +703,16 @@ tldr-dg: true
 				"isDebugMode": false,
 				"isToolLocked": false,
 				"screenBounds": {
-					"x": 406.4850158691406,
-					"y": 90.92250061035156,
-					"w": 1153.37255859375,
-					"h": 1396.2825927734375
+					"x": 0,
+					"y": 0,
+					"w": 1,
+					"h": 1
 				},
 				"insets": [
+					false,
 					true,
 					true,
-					true,
-					true
+					false
 				],
 				"zoomBrush": null,
 				"isGridMode": false,
@@ -702,7 +721,7 @@ tldr-dg: true
 				"isChatting": false,
 				"highlightedUserIds": [],
 				"isFocused": true,
-				"devicePixelRatio": 0.6944444179534912,
+				"devicePixelRatio": 0.9128709435462952,
 				"isCoarsePointer": false,
 				"isHoveringCanvas": true,
 				"openMenus": [],
@@ -715,58 +734,136 @@ tldr-dg: true
 				"typeName": "instance"
 			},
 			{
+				"x": 927.0461174379233,
+				"y": 987.6506042480469,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
 				"meta": {},
-				"id": "binding:jRHzY_SvlvF7aotPRtCDZ",
+				"id": "shape:D2ge--MdfT1oDTlmF5DZ9",
 				"type": "discourse-relation",
-				"fromId": "shape:MLtExn2TTfBykIcCQKjdu",
-				"toId": "shape:qteg1KC8dZUnDbXi3jRSL",
 				"props": {
-					"isPrecise": false,
+					"dash": "draw",
+					"size": "s",
+					"fill": "none",
+					"color": "red",
+					"labelColor": "black",
+					"bend": 0,
+					"start": {
+						"x": -56.534882233129224,
+						"y": 14.960679055460446
+					},
+					"end": {
+						"x": -404.84527450150364,
+						"y": -279.98682925038656
+					},
+					"arrowheadStart": "none",
+					"arrowheadEnd": "arrow",
+					"text": "opposes",
+					"labelPosition": 0.5,
+					"font": "draw",
+					"scale": 1,
+					"kind": "arc",
+					"elbowMidPoint": 0,
+					"relationTypeId": "relation_iqMprMfxPOrN6xDxHHZH1"
+				},
+				"parentId": "page:page",
+				"index": "aFBfp",
+				"typeName": "shape"
+			},
+			{
+				"meta": {},
+				"id": "binding:-Dv8O2hSRWB-VIULmR7Ed",
+				"type": "discourse-relation",
+				"fromId": "shape:mcQa9NEDAJEe5MtAeP1l_",
+				"toId": "shape:W3zoqfBMdxBLZSqoygLBC",
+				"props": {
+					"isPrecise": true,
 					"isExact": false,
 					"normalizedAnchor": {
-						"x": 0.4749343670486127,
-						"y": 0.1372629460832809
+						"x": 0.3795039029936831,
+						"y": 0.9370338198476156
 					},
 					"snap": "none",
-					"terminal": "start"
+					"terminal": "end"
 				},
 				"typeName": "binding"
 			},
 			{
-				"x": 332.5861261897184,
-				"y": 426.9379215016797,
+				"x": -1605.7225269680396,
+				"y": 5308.743596186302,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
 				"meta": {},
-				"id": "shape:3cTxPdOeonYnqkc7TsnM2",
-				"type": "discourse-node",
+				"id": "shape:N5vKCZ-2TUZAvloKOhnE6",
+				"type": "text",
 				"props": {
-					"w": 200,
-					"h": 100,
-					"src": "asset:obsidian.blockref.b9d3660c-55d8-4a27-9528-dcfce4d03f9b",
-					"title": "CLM - ALL life responds to magnetic fields",
-					"nodeTypeId": "node_9oGVtVtNpA6tqvQQQkeoX"
+					"color": "green",
+					"size": "xl",
+					"w": 10,
+					"font": "draw",
+					"textAlign": "middle",
+					"autoSize": true,
+					"scale": 1,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"content": [
+									{
+										"type": "text",
+										"text": "Light variation? (see 8/29, 9/5, 9/11)"
+									}
+								]
+							}
+						]
+					}
 				},
 				"parentId": "page:page",
-				"index": "a1",
+				"index": "aN7is",
 				"typeName": "shape"
 			},
 			{
-				"x": -26.88336648387434,
-				"y": 1171.4052075167897,
+				"x": -200.76363202275138,
+				"y": -562.6825649742009,
 				"rotation": 0,
 				"isLocked": false,
 				"opacity": 1,
 				"meta": {},
-				"id": "shape:kUr8WY3SK1ZkAfoDAdxik",
+				"id": "shape:cksCUHEip5BrYgduwiADM",
+				"type": "image",
+				"props": {
+					"w": 427,
+					"h": 329,
+					"assetId": "asset:-1795513898",
+					"playing": true,
+					"url": "",
+					"crop": null,
+					"flipX": false,
+					"flipY": false,
+					"altText": ""
+				},
+				"parentId": "page:page",
+				"index": "aH23w",
+				"typeName": "shape"
+			},
+			{
+				"x": -8.5667073587299,
+				"y": 1099.7257942271403,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:MNCcoAlY5CZ-P4Xg3GvEN",
 				"type": "text",
 				"props": {
 					"color": "black",
-					"size": "s",
-					"w": 83.71000671386719,
+					"size": "m",
+					"w": 175.28257751464844,
 					"font": "draw",
-					"textAlign": "middle",
+					"textAlign": "start",
 					"autoSize": true,
 					"scale": 1,
 					"richText": {
@@ -780,7 +877,7 @@ tldr-dg: true
 								"content": [
 									{
 										"type": "text",
-										"text": "(see 7/8)"
+										"text": "Robustness to"
 									}
 								]
 							}
@@ -788,24 +885,63 @@ tldr-dg: true
 					}
 				},
 				"parentId": "page:page",
-				"index": "aD7kY",
+				"index": "a7BuD",
+				"typeName": "shape"
+			},
+			{
+				"x": 84.4653971334576,
+				"y": 1157.123682410734,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:eDO-H--fBSbsS1lUzmezD",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "m",
+					"w": 183.78598022460938,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 1,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "gas exchange?"
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "a9Ari",
 				"typeName": "shape"
 			},
 			{
 				"meta": {},
-				"id": "binding:uacnEHnJjEnSDUpWOTEjl",
+				"id": "binding:r634iBaVrPpmSUc-3sL0R",
 				"type": "discourse-relation",
-				"fromId": "shape:MLtExn2TTfBykIcCQKjdu",
-				"toId": "shape:3cTxPdOeonYnqkc7TsnM2",
+				"fromId": "shape:D2ge--MdfT1oDTlmF5DZ9",
+				"toId": "shape:Vl3y9ogVwP_p0IJOlWDZU",
 				"props": {
-					"isPrecise": false,
+					"isPrecise": true,
 					"isExact": false,
 					"normalizedAnchor": {
-						"x": 0.46068906981534413,
-						"y": 0.7828240359403748
+						"x": 0.6423492524150111,
+						"y": 0.3665338134765625
 					},
 					"snap": "none",
-					"terminal": "end"
+					"terminal": "start"
 				},
 				"typeName": "binding"
 			}

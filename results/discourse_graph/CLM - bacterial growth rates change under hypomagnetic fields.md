@@ -9,6 +9,7 @@ relation_9Ot5UCNE1XhndbPn3tf_G:
 relation_iqMprMfxPOrN6xDxHHZH1:
   - "[[EVD - Stationary phase E coli showed no difference in growth rate under hypomagnetic conditions.md]]"
   - "[[EVD - Stationary phase E coli showed no difference in growth rate under hypomagnetic conditions]]"
+  - "[[EVD - no lag phase difference observed in growth curve for stationary-phase Ecoli cells]]"
 ---
 # Discourse Relations
 - **SupportedBy**
