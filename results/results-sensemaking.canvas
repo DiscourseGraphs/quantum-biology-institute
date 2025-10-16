@@ -1,12 +1,35 @@
 {
 	"nodes":[
-		{"id":"5ee14ae34b9f2447","type":"text","text":"light controlled?","x":240,"y":-840,"width":570,"height":240},
-		{"id":"954cc70d47f59eed","type":"file","file":"results/discourse_graph/EVD - 5-09 no lag phase difference, faster growth in hypomagnetic condition.md","x":-320,"y":440,"width":400,"height":638},
-		{"id":"24dee4e916a12a5e","type":"file","file":"results/discourse_graph/EVD - 6-25 phase 1 lag under hypomagnetic conditions starting from stationary phase cells.md","x":120,"y":440,"width":400,"height":638},
-		{"id":"f9991a03b8d31026","type":"file","file":"results/discourse_graph/EVD - 6-20 lag in phase 1 under hypomagnetic conditions, light-controlled.md","x":560,"y":440,"width":400,"height":638},
-		{"id":"03c614d0083572b2","type":"file","file":"results/discourse_graph/EVD - 6-13 slightly slower growth curve in hypomagnetic conditions.md","x":560,"y":-320,"width":400,"height":680}
+		{"id":"a90bef9da109eafe","type":"file","file":"results/discourse_graph/EVD - Hypomagnetic fields extended the lag phase of E coli growth, beginning with growth-phase cells.md","x":-600,"y":-1200,"width":400,"height":1160,"color":"1"},
+		{"id":"1768ac8cdc4d69f2","type":"file","file":"results/discourse_graph/CLM - bacterial growth rates change under hypomagnetic fields.md","x":-270,"y":-1560,"width":400,"height":140,"color":"4"},
+		{"id":"7a81d33145b10c71","type":"file","file":"results/discourse_graph/EVD - Hypomagnetic fields extended the lag phase of E coli growth, beginning with stationary-phase cells.md","x":-160,"y":-1200,"width":400,"height":1160,"color":"1"},
+		{"id":"2052624dc71fe66b","x":280,"y":-1200,"width":400,"height":1040,"color":"1","type":"file","file":"results/discourse_graph/EVD - Stationary phase E coli showed no difference in growth rate under hypomagnetic conditions.md"},
+		{"id":"9bee2e5919498871","type":"file","file":"results/discourse_graph/CLM - ALL life responds to magnetic fields.md","x":-270,"y":-1980,"width":400,"height":80,"color":"4"}
 	],
-	"edges":[],
+	"edges":[
+		{
+			"id":"149a3d66f87336f0",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"a90bef9da109eafe",
+			"fromSide":"top",
+			"toNode":"1768ac8cdc4d69f2",
+			"toSide":"bottom",
+			"color":"4",
+			"label":"support"
+		},
+		{
+			"id":"124fd96c8a4ba9c9",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"1768ac8cdc4d69f2",
+			"fromSide":"top",
+			"toNode":"9bee2e5919498871",
+			"toSide":"bottom"
+		},
+		{"id":"ab0de4df4386c8d4","fromNode":"7a81d33145b10c71","fromSide":"top","toNode":"1768ac8cdc4d69f2","toSide":"bottom","color":"4","label":"support"},
+		{"id":"35dfcbe7404dd188","fromNode":"2052624dc71fe66b","fromSide":"top","toNode":"1768ac8cdc4d69f2","toSide":"bottom","color":"1","label":"opposes"}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}

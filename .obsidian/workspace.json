@@ -6,60 +6,12 @@
       {
         "id": "3e88519e2f73e832",
         "type": "tabs",
-        "dimension": 48.751910341314314,
+        "dimension": 65.70697376839412,
         "children": [
           {
-            "id": "c0ccffc045f1a769",
+            "id": "c0a39c3eed2203ac",
             "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "results/discourse_graph/EVD - 6-25 phase 1 lag under hypomagnetic conditions starting from stationary phase cells.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "EVD - 6-25 phase 1 lag under hypomagnetic conditions starting from stationary phase cells"
-            }
-          },
-          {
-            "id": "abc1c3a8d126f2d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "results/discourse_graph/EVD - 6-13 slightly slower growth curve in hypomagnetic conditions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "EVD - 6-13 slightly slower growth curve in hypomagnetic conditions"
-            }
-          },
-          {
-            "id": "5d0fc1f09fe8c308",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "results/discourse_graph/EVD - 6-20 lag in phase 1 under hypomagnetic conditions, light-controlled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "EVD - 6-20 lag in phase 1 under hypomagnetic conditions, light-controlled"
-            }
-          }
-        ]
-      },
-      {
-        "id": "f2eceed61d7053c2",
-        "type": "tabs",
-        "dimension": 51.24808965868568,
-        "children": [
-          {
-            "id": "0a489fcd2c258d06",
-            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -67,82 +19,168 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "eln-ecoli-growth-curves"
             }
           },
           {
-            "id": "68044e589fcf1add",
+            "id": "157a8b417ea24493",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "tldraw-dg-preview",
               "state": {
-                "file": "results/discourse_graph/EVD - 5-09 no lag phase difference, faster growth in hypomagnetic condition.md",
-                "mode": "source",
-                "source": false
+                "file": "Discourse Canvas/results-sensemaking.md"
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "EVD - 5-09 no lag phase difference, faster growth in hypomagnetic condition"
+              "title": "results-sensemaking"
             }
           },
           {
-            "id": "e9a47d1b9d071daf",
+            "id": "34b24929ea919322",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "results/discourse_graph/EVD - 6-13 slightly slower growth curve in hypomagnetic conditions.md",
-                "mode": "source",
-                "source": false
+                "file": "results/results-sensemaking.canvas",
+                "viewState": {
+                  "x": 30,
+                  "y": -1007.5234368909402,
+                  "zoom": -0.870892775429263
+                }
               },
-              "icon": "lucide-file",
-              "title": "EVD - 6-13 slightly slower growth curve in hypomagnetic conditions"
+              "pinned": true,
+              "icon": "lucide-layout-dashboard",
+              "title": "results-sensemaking"
             }
           },
           {
-            "id": "ea5ec9c961dbddd7",
+            "id": "bfb7afe2b31846f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ecoli_growth_curves/1_eln_ecoli_growth_curves/eln-ecoli-growth-curves.md",
+                "file": "results/discourse_graph/CLM - ALL life responds to magnetic fields.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "eln-ecoli-growth-curves"
+              "title": "CLM - ALL life responds to magnetic fields"
             }
           },
           {
-            "id": "9a28845493e268ed",
+            "id": "55809633e0102d3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "results/discourse_graph/EVD - 5-09 no lag phase difference, faster growth in hypomagnetic condition.md",
+                "file": "results/discourse_graph/CLM - bacterial growth rates change under hypomagnetic fields.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EVD - 5-09 no lag phase difference, faster growth in hypomagnetic condition"
+              "title": "CLM - bacterial growth rates change under hypomagnetic fields"
             }
           },
           {
-            "id": "d518e1790148dedb",
+            "id": "677f0cba7a724bda",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "results/discourse_graph/EVD - 6-13 slightly slower growth curve in hypomagnetic conditions.md",
+                "file": "_meta-private/templates/t - evidence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EVD - 6-13 slightly slower growth curve in hypomagnetic conditions"
+              "title": "t - evidence"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
+      },
+      {
+        "id": "62203e95a34126dd",
+        "type": "tabs",
+        "dimension": 34.293026231605886,
+        "children": [
+          {
+            "id": "68c7a9a21122ee80",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "results/master-project-workbench.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "master-project-workbench"
+            }
+          },
+          {
+            "id": "8474432ad7053084",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "results/discourse_graph/EVD - Hypomagnetic fields extended the lag phase of E coli growth, beginning with growth-phase cells.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "EVD - Hypomagnetic fields extended the lag phase of E coli growth, beginning with growth-phase cells"
+            }
+          },
+          {
+            "id": "a3be63c489559b47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "results/discourse_graph/EVD - Hypomagnetic fields extended the lag phase of E coli growth, beginning with stationary-phase cells.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "EVD - Hypomagnetic fields extended the lag phase of E coli growth, beginning with stationary-phase cells"
+            }
+          },
+          {
+            "id": "b5f2e09fa43e759b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "results/discourse_graph/EVD - Stationary phase E coli showed no difference in growth rate under hypomagnetic conditions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "EVD - Stationary phase E coli showed no difference in growth rate under hypomagnetic conditions"
+            }
+          },
+          {
+            "id": "9061cdb5209a11aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ecoli_growth_curves/1_eln_ecoli_growth_curves/eln-ecoli-growth-curves.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "eln-ecoli-growth-curves"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,7 +212,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#evd-candidate  line:\"gas\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -196,31 +234,10 @@
             }
           }
         ]
-      },
-      {
-        "id": "80f38c16416a163c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a37708f1054582e1",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "results/discourse_graph/EVD - 6-25 phase 1 lag under hypomagnetic conditions starting from stationary phase cells.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of EVD - 6-25 phase 1 lag under hypomagnetic conditions starting from stationary phase cells"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 350.5124969482422
   },
   "right": {
     "id": "7bc9d34c9578fc4f",
@@ -236,8 +253,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "results/discourse_graph/EVD - 6-25 phase 1 lag under hypomagnetic conditions starting from stationary phase cells.md",
-                "collapseAll": false,
+                "file": "_meta-private/templates/t - evidence.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -246,7 +263,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for EVD - 6-25 phase 1 lag under hypomagnetic conditions starting from stationary phase cells"
+              "title": "Backlinks for t - evidence"
             }
           },
           {
@@ -264,6 +281,21 @@
             }
           },
           {
+            "id": "a37708f1054582e1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_meta-private/templates/t - evidence.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of t - evidence"
+            }
+          },
+          {
             "id": "e94cac785afcbe09",
             "type": "leaf",
             "state": {
@@ -277,8 +309,19 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "293c244b2fc9a045",
+            "type": "leaf",
+            "state": {
+              "type": "discourse-context-view",
+              "state": {},
+              "icon": "telescope",
+              "title": "Discourse Context"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -297,47 +340,47 @@
       "discourse-graphs:Toggle Discourse Context": false
     }
   },
-  "active": "c0ccffc045f1a769",
+  "active": "677f0cba7a724bda",
   "lastOpenFiles": [
     "_build/html/myst.search.json",
     "_build/html/myst.xref.json",
     "_build/html/objects.inv",
     "_build/html/config.json",
-    "_build/html/build/style-d9293b32ffe34b239c898b2d84313412.css",
-    "_build/html/build/prj-multi-omics-micr-50baceb24949c9179987c99aa322d2e8.md",
-    "_build/html/build/get_sensor_readings-2273f7605c91f1935ed29d73c2ade7f8.ipynb",
-    "_build/html/build/eln-twinleaf-calibra-5ac1744bf4f29b599b008bbd79c048a9.md",
-    "_build/html/build/eln-ecoli-growth-cur-6f3dad49f902a08d3a476308a704b73d.md",
+    "_build/html/build/style-15d2dca6f6f79ea9c67c5f2f9f86db68.css",
+    "_build/html/build/prj-multi-omics-micr-af2b306056addb532f7ba842f581c5fa.md",
+    "_build/html/build/get_sensor_readings-6eebabac5969e66a5b68599e993c59b1.ipynb",
+    "_build/html/build/eln-twinleaf-calibra-1a8ccae2c384c286e1b73b37062b2d84.md",
+    "_build/html/build/eln-ecoli-growth-cur-d9431cb11084715b3488c3c330e3e65c.md",
     "_build/html/build/ef76a2a1e80db75a7509e187e042285e.png",
     "_build/html/build/b4a4e6ec57e6bfe20e238f75184b6cbe.png",
     "_build/html/build/b3744d7b5b6b6f0bdbce455552984bd8.png",
-    "_build/html/build/arduino_sensor_readi-2d19c81599bdb021198c2b433b468619.md",
-    "_build/html/build/Profile Pic - instit-0d2c35bc09cbc7ecec350e9e1e2c7203.webp",
-    "_build/html/build/Profile Pic - instit-0d2c35bc09cbc7ecec350e9e1e2c7203.png",
-    "_build/html/build/Linkedin Banner 02 --3b06b02fd048026ba7a1682e9110a3fd.webp",
-    "_build/html/build/Linkedin Banner 02 --3b06b02fd048026ba7a1682e9110a3fd.png",
-    "_build/html/build/IMG_1107-32792cb472930a9da758c5b423cc5995.jpeg",
-    "_build/html/build/IMG_1106-9087711eb9174a26463d48cbec3b1750.jpeg",
-    "_build/html/build/IMG_1105-d35d0c3926fbca770efdcade1dc8fd52.jpeg",
-    "_build/html/build/EVD - 6-25 phase 1 l-6c4e339e4b4e7645ca5453717ccbd02a.md",
-    "_build/html/build/EVD - 6-25 phase 1 l-0b0e8400319b731358c253573611e126.md",
-    "_build/html/build/EVD - 6-20 lag in ph-5c37e16b639a0fa8e324b738d79f1f09.md",
-    "_build/html/build/EVD - 6-13 slightly -dfa7b67c0b5a389a957d7c60b2faed01.md",
+    "_build/html/build/arduino_sensor_readi-e883f3cd4751c8dd800cfb629b318f2b.md",
+    "_build/html/build/Profile Pic - instit-214bc918213323ece67db749f818d88e.webp",
+    "_build/html/build/Profile Pic - instit-214bc918213323ece67db749f818d88e.png",
+    "_build/html/build/Linkedin Banner 02 --f977adef550528796882ebafaa1d8028.webp",
+    "_build/html/build/Linkedin Banner 02 --f977adef550528796882ebafaa1d8028.png",
+    "_build/html/build/IMG_1107-2ba93d18ec4a9e6ac07ba9932bf11733.jpeg",
+    "_build/html/build/IMG_1106-d2293f83c9dee560b12c172d052848ec.jpeg",
+    "_build/html/build/IMG_1105-38cf52ad2cca021a3396c34103cd1593.jpeg",
+    "_build/html/build/EVD - Stationary pha-b511bf7b5d6be09558035174299e2c35.md",
+    "_build/html/build/EVD - Hypomagnetic f-9e1282c60b72436ca0358b53a199f2df.md",
+    "_build/html/build/EVD - Hypomagnetic f-1cac82a13ec0733cbb076feb3aa09fd0.md",
+    "_build/html/build/CLM - bacterial grow-9c9ec581814f0818e26e75a9ce8307ef.md",
+    "_build/html/build/CLM - ALL life respo-ae48e7ddd3c3b1c7b14b5dfc8b6b0a94.md",
     "_build/html/thebe-lite.min.js",
     "_build/html/thebe-core.min.js",
     "_build/html/thebe-core.css",
     "_build/html/service-worker.js",
     "_build/html/build/routes/myst-theme[.css]-W2BE6ZFC.js",
-    "_build/site/public/EVD - 6-25 phase 1 l-6c4e339e4b4e7645ca5453717ccbd02a.md",
-    "results/results-sensemaking-workbench.md",
-    "results/discourse_graph/EVD - 6-13 slightly slower growth curve in hypomagnetic conditions.md",
-    "_build/site/public/eln-ecoli-growth-cur-6f3dad49f902a08d3a476308a704b73d.md",
-    "_build/site/public/EVD - 6-25 phase 1 l-0b0e8400319b731358c253573611e126.md",
-    "_build/site/public/EVD - 6-20 lag in ph-5c37e16b639a0fa8e324b738d79f1f09.md",
-    "_build/site/public/EVD - 6-13 slightly -dfa7b67c0b5a389a957d7c60b2faed01.md",
-    "_build/site/public/arduino_sensor_readi-2d19c81599bdb021198c2b433b468619.md",
-    "_build/site/public/eln-twinleaf-calibra-5ac1744bf4f29b599b008bbd79c048a9.md",
-    "_build/site/public/prj-multi-omics-micr-50baceb24949c9179987c99aa322d2e8.md",
+    "_build/site/public/EVD - Stationary pha-b511bf7b5d6be09558035174299e2c35.md",
+    "_build/site/public/EVD - Hypomagnetic f-1cac82a13ec0733cbb076feb3aa09fd0.md",
+    "_build/site/public/EVD - Hypomagnetic f-9e1282c60b72436ca0358b53a199f2df.md",
+    "_build/site/public/CLM - bacterial grow-9c9ec581814f0818e26e75a9ce8307ef.md",
+    "_build/site/public/CLM - ALL life respo-ae48e7ddd3c3b1c7b14b5dfc8b6b0a94.md",
+    "_build/site/public/arduino_sensor_readi-e883f3cd4751c8dd800cfb629b318f2b.md",
+    "_build/site/public/eln-twinleaf-calibra-1a8ccae2c384c286e1b73b37062b2d84.md",
+    "_build/site/public/eln-ecoli-growth-cur-d9431cb11084715b3488c3c330e3e65c.md",
+    "_build/site/public/prj-multi-omics-micr-af2b306056addb532f7ba842f581c5fa.md",
     "_build/templates/site/myst/book-theme/node_modules/@zxing/text-encoding/README.md",
     "_build/templates/site/myst/book-theme/node_modules/@zxing/text-encoding/LICENSE.md",
     "_build/templates/site/myst/book-theme/node_modules/web-streams-polyfill/README.md",

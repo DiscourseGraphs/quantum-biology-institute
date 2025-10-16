@@ -10,14 +10,24 @@
       "id": "node_9oGVtVtNpA6tqvQQQkeoX",
       "name": "Claim",
       "format": "CLM - {content}",
-      "color": "#7DA13E"
+      "color": "#7DA13E",
+      "tag": "clm-candidate"
     },
     {
       "id": "node_MjGSUCfqC-QNUtTeqeaPM",
       "name": "Evidence",
       "format": "EVD - {content}",
       "color": "#DB134A",
-      "template": "t - evidence"
+      "template": "t - evidence",
+      "tag": "evd-candidate"
+    },
+    {
+      "id": "node_QfFqFXzCwkvadJPSsGUxR",
+      "name": "Experiment",
+      "format": "eln-{content}",
+      "template": "",
+      "description": "One or more runs of a (set) of methodological procedures to answer a shared target scientific question",
+      "color": "#a19797"
     }
   ],
   "relationTypes": [
@@ -35,6 +45,12 @@
       "id": "relation_ZHloitDNAT21AQ0EIGX_j",
       "label": "informs",
       "complement": "is informed by"
+    },
+    {
+      "id": "rel_I5Je_QVCxka3LZ3_I_Xbj",
+      "label": "produces",
+      "complement": "produced by",
+      "color": "#000000"
     }
   ],
   "discourseRelations": [
@@ -52,8 +68,25 @@
       "sourceId": "node_MjGSUCfqC-QNUtTeqeaPM",
       "destinationId": "node_9oGVtVtNpA6tqvQQQkeoX",
       "relationshipTypeId": "relation_iqMprMfxPOrN6xDxHHZH1"
+    },
+    {
+      "sourceId": "node_9oGVtVtNpA6tqvQQQkeoX",
+      "destinationId": "node_9oGVtVtNpA6tqvQQQkeoX",
+      "relationshipTypeId": "relation_9Ot5UCNE1XhndbPn3tf_G"
+    },
+    {
+      "sourceId": "node_9oGVtVtNpA6tqvQQQkeoX",
+      "destinationId": "node_9oGVtVtNpA6tqvQQQkeoX",
+      "relationshipTypeId": "relation_iqMprMfxPOrN6xDxHHZH1"
+    },
+    {
+      "sourceId": "node_QfFqFXzCwkvadJPSsGUxR",
+      "destinationId": "node_MjGSUCfqC-QNUtTeqeaPM",
+      "relationshipTypeId": "rel_I5Je_QVCxka3LZ3_I_Xbj"
     }
   ],
   "showIdsInFrontmatter": true,
-  "nodesFolderPath": "results/discourse_graph"
+  "nodesFolderPath": "results/discourse_graph",
+  "canvasFolderPath": "Discourse Canvas",
+  "canvasAttachmentsFolderPath": "attachments"
 }

@@ -49,11 +49,15 @@ project:
           #  title: "Subchapter 2.2: Practice"
   - title: "Findings: Microbial magnetosensitivity"
     children:
+      - title: "Claims and Hypotheses"
+        children:
+          - file: "./results/discourse_graph/CLM - ALL life responds to magnetic fields.md"
+          - file: "./results/discourse_graph/CLM - bacterial growth rates change under hypomagnetic fields.md"
       - title: "Results"
         children:
-          - file: "./results/discourse_graph/EVD - 6-13 slightly slower growth curve in hypomagnetic conditions.md"
-          - file: "./results/discourse_graph/EVD - 6-20 lag in phase 1 under hypomagnetic conditions, light-controlled.md"
-          - file: "./results/discourse_graph/EVD - 6-25 phase 1 lag under hypomagnetic conditions starting from stationary phase cells.md"
+          - file: "./results/discourse_graph/EVD - Hypomagnetic fields extended the lag phase of E coli growth, beginning with growth-phase cells.md"
+          - file: "./results/discourse_graph/EVD - Hypomagnetic fields extended the lag phase of E coli growth, beginning with stationary-phase cells.md"
+          - file: "./results/discourse_graph/EVD - Stationary phase E coli showed no difference in growth rate under hypomagnetic conditions.md"
 
 site:
   template: book-theme
